@@ -1,14 +1,26 @@
-﻿@{
-    ViewBag.Title = "Home Page";
-}
+﻿
+<script language="javascript">
 
-<h2>@ViewBag.Message</h2>
-<p>
-    To learn more about ASP.NET MVC visit <a href="http://asp.net/mvc" title="ASP.NET MVC Website">http://asp.net/mvc</a>.
-</p>
+    $(document).bind('ready', function () {
+        $(click).click(getdata);
+
+        function getdata() {
+            $.ajax({
+                type: 'GET',
+                url:'/Content/search.xml',
+                dataType: 'text',
+                success: function (data) {
+                  $('#result').val(data);
+                }
+            });
+        }
+    });
+</script>
+<button id="click" value="Get data"></button>
 
 <ul data-role="listview" data-inset="true">
     <li data-role="list-divider">Navigation</li>
     <li>@Html.ActionLink("About", "About", "Home")</li>
     <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
 </ul>
+<textarea id="result"></textarea>
