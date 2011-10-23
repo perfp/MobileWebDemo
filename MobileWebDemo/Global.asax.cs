@@ -20,6 +20,7 @@ namespace MobileWebDemo
         public static void RegisterRoutes(RouteCollection routes)
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
+            routes.Ignore("KOTest.html");
 
             routes.MapRoute(
                 "Default", // Route name

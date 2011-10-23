@@ -1,2285 +1,2282 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+ï»¿<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="css/xmlmessage.css"?>
+<searchresult>
+  <result-array>
+    <result>
+      <messages>
+        <message>
+          <heading>Moss - Vinterbro</heading>
+          <messagenumber>44878</messagenumber>
+          <version>7</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>6</roadNumber>
+          <validFrom>2011-10-15 18:52:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Ã˜stfold</string>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.701419</xCoord>
+              <yCoord>59.445343</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.779037</xCoord>
+              <yCoord>59.740541</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Vinterbro - Moss, ved Grimsrudbrua, i retning mot Moss</heading>
+          <messagenumber>44437</messagenumber>
+          <version>3</version>
+          <ingress>Nedsatt hastighet til 50 km/t og innsnevring pÃ¥ grunn av vedlikeholdsarbeid. Gjelder fra 24.08.2011 klokken 21:00 til 10.03.2012 klokken 21:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>6</roadNumber>
+          <validFrom>2011-08-24 21:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.720294</xCoord>
+              <yCoord>59.509561</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Oslo (Ulven) - Vinterbro, ved [27] Klemetsrudkrysset, i retning mot Vinterbro</heading>
+          <messagenumber>47135</messagenumber>
+          <version>1</version>
+          <ingress>Stengt pÃ¥ grunn av vegarbeid i periodene: Fredag og lÃ¸rdag fra 22:00 til 09:00 (neste dag). OmkjÃ¸ring er skiltet. Gjelder fra 14.10.2011 til 15.10.2011.</ingress>
+          <messageType>Midlertidig stengt</messageType>
+          <urgency>X</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>6</roadNumber>
+          <validFrom>2011-10-14 22:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.839612</xCoord>
+              <yCoord>59.839272</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Oslo - Karihaugen, (Alnabru bomstasjon - [40] Trosterud)</heading>
+          <messagenumber>45712</messagenumber>
+          <version>1</version>
+          <ingress>Innsnevring pÃ¥ grunn av vegarbeid. Arbeidet ventes avsluttet 15.12.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>6</roadNumber>
+          <validFrom>2011-09-17 00:01:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.845222</xCoord>
+              <yCoord>59.924164</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.865126</xCoord>
+              <yCoord>59.929671</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>[49] Langeland-krysset - Strandlykkja</heading>
+          <messagenumber>44894</messagenumber>
+          <version>3</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>6</roadNumber>
+          <validFrom>2011-10-15 18:22:36.501 CEST</validFrom>
+          <actualCounties>
+            <string>Hedmark</string>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.161966</xCoord>
+              <yCoord>60.131008</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.243726</xCoord>
+              <yCoord>60.516951</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Gardermoen - Minnesund, (Dal - Minnesund)</heading>
+          <messagenumber>47048</messagenumber>
+          <version>1</version>
+          <ingress>Stengt pÃ¥ grunn av vegarbeid. OmkjÃ¸ring er skiltet. Gjelder fra 17.10.2011 klokken 05:00 til 21.10.2011 klokken 05:00.</ingress>
+          <messageType>Midlertidig stengt</messageType>
+          <urgency>X</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>6</roadNumber>
+          <validFrom>2011-10-17 05:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.181248</xCoord>
+              <yCoord>60.243218</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.220895</xCoord>
+              <yCoord>60.393871</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Gardermoen - Minnesund, ved [55] Ormlia-krysset</heading>
+          <messagenumber>45720</messagenumber>
+          <version>3</version>
+          <ingress>Innsnevring pÃ¥ grunn av vegarbeid. Fare for kÃ¸. Arbeidet ventes avsluttet 04.11.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>6</roadNumber>
+          <validFrom>2011-09-19 07:38:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.144661</xCoord>
+              <yCoord>60.313215</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Gardermoen - Minnesund, ved [58] Minnesund-krysset</heading>
+          <messagenumber>44671</messagenumber>
+          <version>1</version>
+          <ingress>Nedsatt hastighet til 50 km/t pÃ¥ grunn av opprydningsarbeid.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>6</roadNumber>
+          <validFrom>2011-08-29 12:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.22204</xCoord>
+              <yCoord>60.393831</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Ã˜rbekk - BrÃ¸haug</heading>
+          <messagenumber>44440</messagenumber>
+          <version>2</version>
+          <ingress>Nedsatt hastighet til 50 km/t vegarbeid. Fare for kÃ¸. Arbeidet ventes avsluttet 30.11.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>6</roadNumber>
+          <validFrom>2011-08-23 14:09:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.240319</xCoord>
+              <yCoord>60.423638</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.24281</xCoord>
+              <yCoord>60.46051</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Minnesund - Hamar, ([59] Langset-krysset - Strandlykkja)</heading>
+          <messagenumber>45305</messagenumber>
+          <version>3</version>
+          <ingress>Nedsatt hastighet til 50 km/t og manuell dirigering pÃ¥ grunn av vegarbeid. Arbeidet ventes avsluttet 31.12.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>6</roadNumber>
+          <validFrom>2011-09-09 07:09:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Hedmark</string>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.241483</xCoord>
+              <yCoord>60.413939</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.243726</xCoord>
+              <yCoord>60.516951</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Minnesund - Hamar, (BrÃ¸haug - Strandlykkja)</heading>
+          <messagenumber>45002</messagenumber>
+          <version>2</version>
+          <ingress>Stengt i korte perioder pÃ¥ grunn av sprengningsarbeid. Gjelder fra 02.09.2011 klokken 13:45 til 31.12.2011 klokken 23:59.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>6</roadNumber>
+          <validFrom>2011-09-02 13:45:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Hedmark</string>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.24281</xCoord>
+              <yCoord>60.46051</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.243726</xCoord>
+              <yCoord>60.516951</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>SollihÃ¸gda - HÃ¸nefoss</heading>
+          <messagenumber>47153</messagenumber>
+          <version>1</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>16</roadNumber>
+          <validFrom>2011-10-14 12:04:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Buskerud</string>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.361346</xCoord>
+              <yCoord>59.959052</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.229601</xCoord>
+              <yCoord>60.178968</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>[18] Holmenkrysset, pÃ¥kjÃ¸ringsveg, i retning mot Ã¸st</heading>
+          <messagenumber>47086</messagenumber>
+          <version>1</version>
+          <ingress>Nedsatt hastighet til 50 km/t og innsnevring pÃ¥ grunn av vegarbeid i periodene: Mandag til torsdag fra 22:00 til 05:30 (neste dag).</ingress>
+          <freetext>PÃ¥kjÃ¸ringsveg retning Oslo.</freetext>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>18</roadNumber>
+          <validFrom>2011-10-17 22:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.480928</xCoord>
+              <yCoord>59.856106</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>[18] Holmenkrysset, avkjÃ¸ringsveg, i retning mot Liertoppen</heading>
+          <messagenumber>47084</messagenumber>
+          <version>2</version>
+          <ingress>Nedsatt hastighet til 50 km/t og innsnevring pÃ¥ grunn av vegarbeid i periodene: Mandag til torsdag fra 22:00 til 05:30 (neste dag).</ingress>
+          <freetext>AvkjÃ¸ringsrampe mot Holmen.</freetext>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>18</roadNumber>
+          <validFrom>2011-10-17 22:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.480928</xCoord>
+              <yCoord>59.856106</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Oslo - Sandvika (Festningstunnelen), i retning mot Sandvika</heading>
+          <messagenumber>47122</messagenumber>
+          <version>1</version>
+          <ingress>Toveis trafikk i ett lÃ¸p pÃ¥ grunn av vedlikeholdsarbeid. Gjelder fra 18.10.2011 klokken 22:00 til 19.10.2011 klokken 05:30.</ingress>
+          <freetext>Gjelder BjÃ¸rvika og Festningstunnelen.</freetext>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>18</roadNumber>
+          <validFrom>2011-10-18 22:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.744334</xCoord>
+              <yCoord>59.90664</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.717881</xCoord>
+              <yCoord>59.910092</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Sandvika - Oslo (Festningstunnelen), i retning mot Oslo</heading>
+          <messagenumber>47123</messagenumber>
+          <version>1</version>
+          <ingress>Toveis trafikk i ett lÃ¸p pÃ¥ grunn av vedlikeholdsarbeid. Gjelder fra 17.10.2011 klokken 22:00 til 18.10.2011 klokken 05:30.</ingress>
+          <freetext>Gjelder Festningstunnelen og BjÃ¸rvikatunnelen.</freetext>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>18</roadNumber>
+          <validFrom>2011-10-17 22:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.744334</xCoord>
+              <yCoord>59.90664</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.717881</xCoord>
+              <yCoord>59.910092</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Oslo - Sandvika (Framnes tunnel), i retning mot Sandvika</heading>
+          <messagenumber>47127</messagenumber>
+          <version>1</version>
+          <ingress>Stengt pÃ¥ grunn av vedlikeholdsarbeid. OmkjÃ¸ring er skiltet. Gjelder fra 18.10.2011 klokken 22:00 til 19.10.2011 klokken 05:30.</ingress>
+          <messageType>Midlertidig stengt</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>18</roadNumber>
+          <validFrom>2011-10-18 22:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.710788</xCoord>
+              <yCoord>59.910172</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.708649</xCoord>
+              <yCoord>59.910443</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Sandvika - Oslo (Framnes tunnel), i retning mot Oslo</heading>
+          <messagenumber>47121</messagenumber>
+          <version>1</version>
+          <ingress>Stengt pÃ¥ grunn av vedlikeholdsarbeid. OmkjÃ¸ring er skiltet. Gjelder fra 17.10.2011 klokken 22:00 til 18.10.2011 klokken 05:30.</ingress>
+          <messageType>Midlertidig stengt</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>18</roadNumber>
+          <validFrom>2011-10-17 22:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.710788</xCoord>
+              <yCoord>59.910172</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.708649</xCoord>
+              <yCoord>59.910443</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Oslo - Vinterbrokrysset, (Ringneskrysset - HerregÃ¥rdskrysset)</heading>
+          <messagenumber>45677</messagenumber>
+          <version>4</version>
+          <ingress>Stengt pÃ¥ grunn av vedlikeholdsarbeid i periodene: Alle dager fra 21:00 til 06:00 (neste dag). OmkjÃ¸ring er skiltet. RutegÃ¥ende trafikk kan passere. Arbeidet ventes avsluttet 25.11.2011.</ingress>
+          <messageType>Midlertidig stengt</messageType>
+          <urgency>X</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>18</roadNumber>
+          <validFrom>2011-10-07 07:25:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.781514</xCoord>
+              <yCoord>59.756312</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.779507</xCoord>
+              <yCoord>59.838351</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Elvestadkrysset - Mastemyr</heading>
+          <messagenumber>44875</messagenumber>
+          <version>4</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>18</roadNumber>
+          <validFrom>2011-10-15 18:52:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Ã˜stfold</string>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.949492</xCoord>
+              <yCoord>59.622788</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.77669</xCoord>
+              <yCoord>59.825601</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Oslo - Vinterbrokrysset, (Mastemyr - Svartskog)</heading>
+          <messagenumber>45678</messagenumber>
+          <version>1</version>
+          <ingress>Nedsatt hastighet til 60 km/t pÃ¥ grunn av vedlikeholdsarbeid. Gjelder fra 19.09.2011 klokken 21:00 til 18.11.2011 klokken 21:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Ev</roadType>
+          <roadNumber>18</roadNumber>
+          <validFrom>2011-09-19 21:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.776836</xCoord>
+              <yCoord>59.825565</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.761857</xCoord>
+              <yCoord>59.785005</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>KlÃ¸fta - Kongsvinger, (Mogard - RÃ¸d)</heading>
+          <messagenumber>43846</messagenumber>
+          <version>3</version>
+          <ingress>Manuell dirigering pÃ¥ grunn av vegarbeid i periodene: Alle dager fra 08:00 til 15:00. Arbeidet ventes avsluttet 31.12.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>2</roadNumber>
+          <validFrom>2011-08-09 08:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.343627</xCoord>
+              <yCoord>60.129863</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.341371</xCoord>
+              <yCoord>60.129491</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Oppaker - Kongsvinger</heading>
+          <messagenumber>44848</messagenumber>
+          <version>4</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>2</roadNumber>
+          <validFrom>2011-10-15 18:36:09.156 CEST</validFrom>
+          <actualCounties>
+            <string>Hedmark</string>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.994923</xCoord>
+              <yCoord>60.192631</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.515651</xCoord>
+              <yCoord>60.179296</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>GjellerÃ¥sen - Stryken</heading>
+          <messagenumber>44855</messagenumber>
+          <version>3</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>4</roadNumber>
+          <validFrom>2011-10-15 18:06:10.470 CEST</validFrom>
+          <actualCounties>
+            <string>Oppland</string>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.713236</xCoord>
+              <yCoord>60.163677</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.929462</xCoord>
+              <yCoord>59.988622</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>GjellerÃ¥sen - Lunner, ved HADELANDSVEIEN 1318</heading>
+          <messagenumber>46613</messagenumber>
+          <version>1</version>
+          <ingress>Nedsatt hastighet til 50 km/t pÃ¥ grunn av vegarbeid i periodene: Fredag til sÃ¸ndag fra 09:00 til 23:00. Gjelder fra 14.10.2011 til 16.10.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>4</roadNumber>
+          <validFrom>2011-10-14 09:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.868282</xCoord>
+              <yCoord>60.095062</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Fet - Fet (Fetsund bru)</heading>
+          <messagenumber>46228</messagenumber>
+          <version>2</version>
+          <ingress>Nedsatt hastighet til 50 km/t og manuell dirigering pÃ¥ grunn av vegarbeid i periodene: Alle dager fra 21:00 til 05:30 (neste dag). Arbeidet ventes avsluttet 31.10.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>22</roadNumber>
+          <validFrom>2011-09-29 21:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.158637</xCoord>
+              <yCoord>59.924399</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.168776</xCoord>
+              <yCoord>59.923053</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Kjellstad - Oslofjordtunnelen</heading>
+          <messagenumber>47164</messagenumber>
+          <version>1</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>23</roadNumber>
+          <validFrom>2011-10-14 12:30:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Buskerud</string>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.257033</xCoord>
+              <yCoord>59.768196</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.613714</xCoord>
+              <yCoord>59.665039</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Kjellstad - Vassumkrysset (Oslofjordtunnelen)</heading>
+          <messagenumber>47043</messagenumber>
+          <version>1</version>
+          <ingress>Stengt pÃ¥ grunn av vedlikeholdsarbeid i periodene: Mandag til onsdag fra 22:00 til 05:30 (neste dag). Gjelder fra 17.10.2011 til 19.10.2011.</ingress>
+          <freetext>OmkjÃ¸ring via Oslo.</freetext>
+          <messageType>Midlertidig stengt</messageType>
+          <urgency>X</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>23</roadNumber>
+          <validFrom>2011-10-17 22:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Buskerud</string>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.611099</xCoord>
+              <yCoord>59.662773</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.569409</xCoord>
+              <yCoord>59.662476</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Kjellstad - Vassumkrysset (Oslofjordtunnelen)</heading>
+          <messagenumber>42939</messagenumber>
+          <version>4</version>
+          <ingress>Stengt for kjÃ¸retÃ¸y med totalvekt over 7,5 tonn.</ingress>
+          <freetext>Anbefalt omkjÃ¸ring via Oslo, alternativt Rv 19 fergesambandet Moss-Horten.</freetext>
+          <messageType>Midlertidig stengt</messageType>
+          <urgency>X</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>23</roadNumber>
+          <validFrom>2011-08-12 07:50:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Buskerud</string>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.611099</xCoord>
+              <yCoord>59.662773</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.569409</xCoord>
+              <yCoord>59.662476</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Vassumkrysset - MÃ¥nakrysset</heading>
+          <messagenumber>44880</messagenumber>
+          <version>4</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>23</roadNumber>
+          <validFrom>2011-10-15 18:54:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.659923</xCoord>
+              <yCoord>59.69452</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.73964</xCoord>
+              <yCoord>59.706866</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Krysset Jessheim Nord - Gardermoen</heading>
+          <messagenumber>44850</messagenumber>
+          <version>3</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>35</roadNumber>
+          <validFrom>2011-10-15 18:06:10.474 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.098972</xCoord>
+              <yCoord>60.193337</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.157019</xCoord>
+              <yCoord>60.165326</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Ring 3 (Granfosstunnelen)</heading>
+          <messagenumber>46138</messagenumber>
+          <version>1</version>
+          <ingress>Toveis trafikk i ett lÃ¸p og nedsatt hastighet til 50 km/t pÃ¥ grunn av vegarbeid. Gjelder fra 11.10.2011 klokken 22:00 til 12.11.2011 klokken 05:30.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>150</roadNumber>
+          <validFrom>2011-10-11 22:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.630244</xCoord>
+              <yCoord>59.918391</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.627484</xCoord>
+              <yCoord>59.911078</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Ring 3 (Smestadtunnelen)</heading>
+          <messagenumber>47128</messagenumber>
+          <version>1</version>
+          <ingress>Stengt pÃ¥ grunn av vedlikeholdsarbeid i periodene: Tirsdag til fredag fra 22:00 til 05:00 (neste dag). OmkjÃ¸ring er skiltet. Gjelder fra 18.10.2011 til 21.10.2011.</ingress>
+          <messageType>Midlertidig stengt</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>150</roadNumber>
+          <validFrom>2011-10-18 22:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.687595</xCoord>
+              <yCoord>59.938988</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.680107</xCoord>
+              <yCoord>59.936604</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Ring 3, (Ã˜kern - LÃ¸ren Skole)</heading>
+          <messagenumber>46059</messagenumber>
+          <version>1</version>
+          <ingress>Ett felt stengt pÃ¥ grunn av vegarbeid. Gjelder fra 23.09.2011 klokken 22:00 til 01.11.2011 klokken 05:30.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>150</roadNumber>
+          <validFrom>2011-09-23 22:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.802318</xCoord>
+              <yCoord>59.927023</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.801526</xCoord>
+              <yCoord>59.930944</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Hjalmar Brantings Vei, krysset Ã˜kernveien (ved Ring 3), avkjÃ¸ringsfelt, i retning mot Ulvenkrysset</heading>
+          <messagenumber>47129</messagenumber>
+          <version>1</version>
+          <ingress>Stengt pÃ¥ grunn av vegarbeid i periodene: Fredag til sÃ¸ndag, mandag og tirsdag fra 21:00 til 05:30 (neste dag). OmkjÃ¸ring er skiltet. Gjelder fra 14.10.2011 til 18.10.2011.</ingress>
+          <messageType>Midlertidig stengt</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>150</roadNumber>
+          <validFrom>2011-10-14 21:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.802119</xCoord>
+              <yCoord>59.927733</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Ring 1, ved HAAKON VII&apos;S GATE 9</heading>
+          <messagenumber>43218</messagenumber>
+          <version>1</version>
+          <ingress>Ett felt stengt pÃ¥ grunn av vedlikeholdsarbeid. Arbeidet ventes avsluttet 14.12.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>162</roadNumber>
+          <validFrom>2011-07-18 09:50:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.731136</xCoord>
+              <yCoord>59.914157</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Ring 1, ved RUSELÃ˜KKVEIEN 3</heading>
+          <messagenumber>46988</messagenumber>
+          <version>1</version>
+          <ingress>Innsnevring pÃ¥ grunn av vegarbeid. Arbeidet ventes avsluttet 04.11.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>162</roadNumber>
+          <validFrom>2011-10-11 10:44:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.730204</xCoord>
+              <yCoord>59.914307</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Haakon Vii&apos;s Gate, krysset Munkedamsveien (ved Ring 1), i retning mot Filipstad</heading>
+          <messagenumber>47091</messagenumber>
+          <version>1</version>
+          <ingress>Innsnevring pÃ¥ grunn av vedlikeholdsarbeid. Gjelder fra 17.10.2011 klokken 22:00 til 18.10.2011 klokken 06:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>162</roadNumber>
+          <validFrom>2011-10-17 22:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.730681</xCoord>
+              <yCoord>59.913936</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Frederiks Gate, krysset St.Olavs Gate (ved Ring 1), hÃ¸yre felt, i retning mot TÃ¸yenbekken</heading>
+          <messagenumber>46915</messagenumber>
+          <version>1</version>
+          <ingress>HÃ¸yre felt stengt pÃ¥ grunn av vedlikeholdsarbeid. Arbeidet ventes avsluttet 12.11.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>162</roadNumber>
+          <validFrom>2011-10-10 08:59:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.735981</xCoord>
+              <yCoord>59.917839</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Ring 1, ved ST.OLAVS GATE 24</heading>
+          <messagenumber>29877</messagenumber>
+          <version>2</version>
+          <ingress>Innsnevring pÃ¥ grunn av vedlikeholdsarbeid. Arbeidet ventes avsluttet 01.06.2012.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>162</roadNumber>
+          <validFrom>2010-11-09 09:17:00.0 CET</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.737245</xCoord>
+              <yCoord>59.917898</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Ã˜stre Akerveg (Brobekkveien O/Ã¸stre bru), pÃ¥kjÃ¸ringsveg, i retning mot Robsrud-krysset</heading>
+          <messagenumber>47076</messagenumber>
+          <version>1</version>
+          <ingress>Innsnevring pÃ¥ grunn av dekkelegging i periodene: Mandag og tirsdag fra 21:00 til 05:30 (neste dag). Gjelder fra 17.10.2011 til 18.10.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>163</roadNumber>
+          <validFrom>2011-10-17 21:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.828091</xCoord>
+              <yCoord>59.932829</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.82835</xCoord>
+              <yCoord>59.93295</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>SÃ¸renga - Alnakrysset, ved [63] Lodalsbrua</heading>
+          <messagenumber>47119</messagenumber>
+          <version>2</version>
+          <ingress>Manuell dirigering pÃ¥ grunn av vedlikeholdsarbeid i periodene: Onsdag til fredag fra 22:00 til 05:30 (neste dag). Gjelder fra 19.10.2011 til 21.10.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>U</urgency>
+          <roadType>Rv</roadType>
+          <roadNumber>190</roadNumber>
+          <validFrom>2011-10-19 22:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.781258</xCoord>
+              <yCoord>59.903293</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Gamle Mosseveien, krysset Langliveien (ved Ã˜stfold/Nummestad - Ã˜stfold/KÃ¥ter)</heading>
+          <messagenumber>41237</messagenumber>
+          <version>3</version>
+          <ingress>Nedsatt hastighet til 50 km/t pÃ¥ grunn av vegarbeid. Arbeidet ventes avsluttet 30.12.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>6</roadNumber>
+          <validFrom>2011-09-20 08:55:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.737065</xCoord>
+              <yCoord>59.572541</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Kirkeveien, krysset Vestbyveien (ved Nummestad - Haver)</heading>
+          <messagenumber>45293</messagenumber>
+          <version>3</version>
+          <ingress>Stengt pÃ¥ grunn av vegarbeid i periodene: Alle dager fra 09:00 til 06:00 (neste dag). OmkjÃ¸ring er skiltet. Arbeidet ventes avsluttet 24.10.2011.</ingress>
+          <messageType>Midlertidig stengt</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>6</roadNumber>
+          <validFrom>2011-10-07 07:06:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.746147</xCoord>
+              <yCoord>59.602906</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Ã˜rje - Skotterud, ved Tangen, i retning mot Skotterud</heading>
+          <messagenumber>45112</messagenumber>
+          <version>1</version>
+          <ingress>Ett felt stengt og manuell dirigering pÃ¥ grunn av vegarbeid. Gjelder fra 04.09.2011 klokken 00:01 til 01.11.2011 klokken 23:59.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>21</roadNumber>
+          <validFrom>2011-09-04 00:01:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.717711</xCoord>
+              <yCoord>59.844339</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>GjellerÃ¥sen - Skedsmo, (GjellerÃ¥sen - Lahaug)</heading>
+          <messagenumber>42879</messagenumber>
+          <version>1</version>
+          <ingress>Innsnevring og nedsatt hastighet til 50 km/t pÃ¥ grunn av vegarbeid. Gjelder fra 01.08.2011 klokken 00:00 til 01.12.2011 klokken 23:59.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>22</roadNumber>
+          <validFrom>2011-08-01 00:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.929854</xCoord>
+              <yCoord>59.988674</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.969768</xCoord>
+              <yCoord>59.980501</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Langhus - Siggerud, ved VEVELSTADVEIEN 2</heading>
+          <messagenumber>46610</messagenumber>
+          <version>1</version>
+          <ingress>Nedsatt hastighet til 50 km/t og manuell dirigering pÃ¥ grunn av dekkelegging i periodene: Mandag til fredag fra 19:00 til 06:00 (neste dag).</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>32</roadNumber>
+          <validFrom>2011-10-03 19:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.837337</xCoord>
+              <yCoord>59.749548</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Minnesund-krysset - Feiring</heading>
+          <messagenumber>44910</messagenumber>
+          <version>3</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>33</roadNumber>
+          <validFrom>2011-10-15 18:06:10.466 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.15747</xCoord>
+              <yCoord>60.484</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.222363</xCoord>
+              <yCoord>60.393256</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Kapellveien, krysset Skoklefaldsvingen (ved Flaskebekk - Skoklefall)</heading>
+          <messagenumber>44793</messagenumber>
+          <version>1</version>
+          <ingress>Nedsatt hastighet til 60 km/t og manuell dirigering pÃ¥ grunn av vegarbeid. Arbeidet ventes avsluttet 30.11.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>106</roadNumber>
+          <validFrom>2011-09-01 07:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.667991</xCoord>
+              <yCoord>59.847224</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Storgata, ved Vestbygata (i Skedsmo kommune)</heading>
+          <messagenumber>45792</messagenumber>
+          <version>1</version>
+          <ingress>Innsnevring pÃ¥ grunn av vegarbeid. Arbeidet ventes avsluttet 15.12.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>120</roadNumber>
+          <validFrom>2011-09-19 01:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.051036</xCoord>
+              <yCoord>59.963122</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>RÃ¦lingen - Tomter</heading>
+          <messagenumber>44924</messagenumber>
+          <version>4</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>120</roadNumber>
+          <validFrom>2011-10-15 18:53:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.092982</xCoord>
+              <yCoord>59.864077</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.077995</xCoord>
+              <yCoord>59.919443</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Hektner (i RÃ¦lingen kommune)</heading>
+          <messagenumber>46914</messagenumber>
+          <version>1</version>
+          <ingress>Innsnevring og nedsatt hastighet til 50 km/t pÃ¥ grunn av vedlikeholdsarbeid. Arbeidet ventes avsluttet 30.11.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>120</roadNumber>
+          <validFrom>2011-10-10 00:01:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.099309</xCoord>
+              <yCoord>59.893442</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Kolbotn Kirke - Taraldrunkr. V RundkjÃ¸ring, ved Sofiemyr</heading>
+          <messagenumber>41223</messagenumber>
+          <version>1</version>
+          <ingress>Ett felt stengt og nedsatt hastighet til 50 km/t pÃ¥ grunn av vedlikeholdsarbeid. Gjelder fra 09.06.2011 klokken 10:00 til 26.12.2011 klokken 14:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>129</roadNumber>
+          <validFrom>2011-06-09 10:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.81999</xCoord>
+              <yCoord>59.797334</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>DrÃ¸bak - Mastemyr</heading>
+          <messagenumber>44925</messagenumber>
+          <version>4</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>152</roadNumber>
+          <validFrom>2011-10-15 18:53:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Oslo</string>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.630795</xCoord>
+              <yCoord>59.663799</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.780186</xCoord>
+              <yCoord>59.823978</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>OppegÃ¥rd - OppegÃ¥rd (Liavegen bru)</heading>
+          <messagenumber>45520</messagenumber>
+          <version>1</version>
+          <ingress>Innsnevring og lysregulering pÃ¥ grunn av vegarbeid. Gjelder fra 13.09.2011 klokken 10:52 til 31.10.2011 klokken 07:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>152</roadNumber>
+          <validFrom>2011-09-13 10:52:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.795958</xCoord>
+              <yCoord>59.812877</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.795879</xCoord>
+              <yCoord>59.812898</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>MÃ¥na - Mastemyr, ved Mastemyr</heading>
+          <messagenumber>39299</messagenumber>
+          <version>1</version>
+          <ingress>Redusert framkommelighet pÃ¥ grunn av vegarbeid. Arbeidet ventes avsluttet 31.10.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>152</roadNumber>
+          <validFrom>2011-02-01 08:03:00.0 CET</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.780166</xCoord>
+              <yCoord>59.823962</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>NygÃ¥rdskrysset - Klokkerud</heading>
+          <messagenumber>44927</messagenumber>
+          <version>4</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>154</roadNumber>
+          <validFrom>2011-10-15 18:53:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.7856</xCoord>
+              <yCoord>59.724288</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.866979</xCoord>
+              <yCoord>59.722894</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Klemmetsrud - Tangen</heading>
+          <messagenumber>44928</messagenumber>
+          <version>4</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>155</roadNumber>
+          <validFrom>2011-10-15 18:53:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.055601</xCoord>
+              <yCoord>59.722434</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.009402</xCoord>
+              <yCoord>59.73862</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Ringnes  - Nesoddtangen</heading>
+          <messagenumber>44929</messagenumber>
+          <version>4</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>156</roadNumber>
+          <validFrom>2011-10-15 18:53:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.655707</xCoord>
+              <yCoord>59.869677</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.782295</xCoord>
+              <yCoord>59.756731</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Vassumkrysset - Ringnes, ved Ringnes</heading>
+          <messagenumber>47051</messagenumber>
+          <version>1</version>
+          <ingress>Manuell dirigering pÃ¥ grunn av dekkelegging i periodene: Alle dager fra 22:00 til 06:00 (neste dag). Arbeidet ventes avsluttet 25.10.2011 klokken 06:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>156</roadNumber>
+          <validFrom>2011-10-18 22:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.782283</xCoord>
+              <yCoord>59.756727</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>SÃ¸nstedal - Granholt</heading>
+          <messagenumber>44930</messagenumber>
+          <version>4</version>
+          <ingress>Bart.</ingress>
+          <messageType>VÃ¦r- og fÃ¸reforhold</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>157</roadNumber>
+          <validFrom>2011-10-15 18:54:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.691771</xCoord>
+              <yCoord>59.736187</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.666139</xCoord>
+              <yCoord>59.85996</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Leif Larsens Vei, mellom nr 1 og nr 32 (ved Ringeriksveien - Brynsveien)</heading>
+          <messagenumber>41248</messagenumber>
+          <version>1</version>
+          <ingress>Stengt pÃ¥ grunn av vedlikeholdsarbeid i periodene: Alle dager fra 05:30 til 17:00. OmkjÃ¸ring er skiltet. Arbeidet ventes avsluttet 28.11.2011.</ingress>
+          <messageType>Midlertidig stengt</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>164</roadNumber>
+          <validFrom>2011-06-08 05:30:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.520875</xCoord>
+              <yCoord>59.892959</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.52091</xCoord>
+              <yCoord>59.896787</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Leif Larsens Vei, mellom Engervannsveien og Skytterdalen (ved Ringeriksveien - Brynsveien)</heading>
+          <messagenumber>44152</messagenumber>
+          <version>3</version>
+          <ingress>Manuell dirigering pÃ¥ grunn av sprengningsarbeid i periodene: Mandag til fredag fra 08:00 til 19:00. Arbeidet ventes avsluttet 01.12.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>164</roadNumber>
+          <validFrom>2011-09-16 08:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.521904</xCoord>
+              <yCoord>59.895688</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.521436</xCoord>
+              <yCoord>59.892707</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Engervannsveien, krysset Folangerveien (ved Ringeriksveien - Brynsveien)</heading>
+          <messagenumber>44422</messagenumber>
+          <version>1</version>
+          <ingress>Redusert framkommelighet pÃ¥ grunn av vegarbeid. Arbeidet ventes avsluttet 08.08.2012.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>164</roadNumber>
+          <validFrom>2011-08-23 10:49:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.526071</xCoord>
+              <yCoord>59.894369</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Leangbukta (7 km nord for Slemmestad)</heading>
+          <messagenumber>46736</messagenumber>
+          <version>1</version>
+          <ingress>Nedsatt hastighet til 40 km/t pÃ¥ grunn av vegarbeid i periodene: Alle dager fra 07:00 til 21:00. Arbeidet ventes avsluttet 30.11.2011 klokken 21:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>165</roadNumber>
+          <validFrom>2011-10-06 07:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.47713</xCoord>
+              <yCoord>59.838933</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Leangbukta (i Asker kommune)</heading>
+          <messagenumber>45589</messagenumber>
+          <version>4</version>
+          <ingress>Innsnevring pÃ¥ grunn av vegarbeid i periodene: Mandag til fredag fra 07:00 til 21:00. Arbeidet ventes avsluttet 30.11.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>165</roadNumber>
+          <validFrom>2011-10-07 07:22:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.47713</xCoord>
+              <yCoord>59.838933</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Fjellsrud - LÃ¸ken (SotbrÃ¥ten bru)</heading>
+          <messagenumber>43130</messagenumber>
+          <version>1</version>
+          <ingress>Lysregulering pÃ¥ grunn av vedlikeholdsarbeid. Arbeidet ventes avsluttet 31.10.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>169</roadNumber>
+          <validFrom>2011-07-18 00:01:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.322974</xCoord>
+              <yCoord>59.860954</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.323074</xCoord>
+              <yCoord>59.86097</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Hval - Rotnes, ved Hvam VideregÃ¥ende Skole</heading>
+          <messagenumber>44784</messagenumber>
+          <version>1</version>
+          <ingress>Redusert framkommelighet og nedsatt hastighet til 50 km/t pÃ¥ grunn av vegarbeid. Gjelder fra 31.08.2011 klokken 00:00 til 31.10.2011 klokken 00:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>173</roadNumber>
+          <validFrom>2011-08-31 00:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.37751</xCoord>
+              <yCoord>60.102369</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Ã…rnes - Funnefoss</heading>
+          <messagenumber>44077</messagenumber>
+          <version>2</version>
+          <ingress>Redusert framkommelighet pÃ¥ grunn av flom. OmkjÃ¸ring er skiltet for kjÃ¸retÃ¸y med totalvekt over 3,5 tonn.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>175</roadNumber>
+          <validFrom>2011-08-15 17:01:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.463689</xCoord>
+              <yCoord>60.122335</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.53826</xCoord>
+              <yCoord>60.16452</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Algarheimsvegen, ved Gardermovegen (i Ullensaker kommune)</heading>
+          <messagenumber>45639</messagenumber>
+          <version>1</version>
+          <ingress>Redusert framkommelighet pÃ¥ grunn av vegarbeid. Gjelder fra 15.09.2011 klokken 09:00 til 31.05.2012 klokken 23:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>178</roadNumber>
+          <validFrom>2011-09-15 09:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.175333</xCoord>
+              <yCoord>60.141476</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Bogsrud - Sand, ved Gullverket</heading>
+          <messagenumber>45507</messagenumber>
+          <version>2</version>
+          <ingress>Manuell dirigering pÃ¥ grunn av vedlikeholdsarbeid i periodene: Alle dager fra 00:01 til 23:59. Arbeidet ventes avsluttet 31.10.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>181</roadNumber>
+          <validFrom>2011-10-07 07:17:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.346863</xCoord>
+              <yCoord>60.366462</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Idrettsveien, krysset Billingstadveien (ved Billingstad - Asker/BÃ¦rum)</heading>
+          <messagenumber>47085</messagenumber>
+          <version>1</version>
+          <ingress>Manuell dirigering pÃ¥ grunn av vegarbeid i periodene: Mandag til lÃ¸rdag fra 09:00 til 17:00. Gjelder fra 17.10.2011 til 22.10.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>202</roadNumber>
+          <validFrom>2011-10-17 09:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.471323</xCoord>
+              <yCoord>59.87753</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Engelsrud - Vollen, ved Dikemark Sykehus</heading>
+          <messagenumber>46606</messagenumber>
+          <version>2</version>
+          <ingress>Innsnevring pÃ¥ grunn av vegarbeid i periodene: Alle dager fra 07:00 til 19:00. Arbeidet ventes avsluttet 31.12.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>204</roadNumber>
+          <validFrom>2011-10-06 00:57:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.372983</xCoord>
+              <yCoord>59.805131</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Skogheim - Ã…serud, ved Ã…serud</heading>
+          <messagenumber>43656</messagenumber>
+          <version>1</version>
+          <ingress>Nedsatt hastighet til 50 km/t og manuell dirigering pÃ¥ grunn av dekkelegging. Arbeidet ventes avsluttet 15.02.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>228</roadNumber>
+          <validFrom>2011-08-08 06:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.725129</xCoord>
+              <yCoord>59.799581</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Haugrim - Ã˜ysjÃ¸en</heading>
+          <messagenumber>44478</messagenumber>
+          <version>2</version>
+          <ingress>Manuell dirigering pÃ¥ grunn av vegarbeid i periodene: Mandag til fredag fra 07:00 til 21:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>235</roadNumber>
+          <validFrom>2011-08-29 07:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.592495</xCoord>
+              <yCoord>59.903577</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.81148</xCoord>
+              <yCoord>59.94028</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Lierfoss - BjÃ¸rknessjÃ¸en (VÃ¥ler bru)</heading>
+          <messagenumber>46775</messagenumber>
+          <version>1</version>
+          <ingress>Lysregulering pÃ¥ grunn av dekkelegging i periodene: Mandag til fredag fra 07:00 til 19:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>236</roadNumber>
+          <validFrom>2011-10-10 07:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.532578</xCoord>
+              <yCoord>59.919695</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.532648</xCoord>
+              <yCoord>59.919811</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Skedsmo/SÃ¸rum - Hval, ved Hval</heading>
+          <messagenumber>43938</messagenumber>
+          <version>1</version>
+          <ingress>Innsnevring pÃ¥ grunn av vegarbeid. Gjelder fra 03.08.2011 klokken 10:39 til 31.12.2011 klokken 20:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>259</roadNumber>
+          <validFrom>2011-08-03 10:39:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.116745</xCoord>
+              <yCoord>60.022482</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>GarderÃ¥sen (i Fet kommune)</heading>
+          <messagenumber>45280</messagenumber>
+          <version>1</version>
+          <ingress>Innsnevring pÃ¥ grunn av jordras.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>279</roadNumber>
+          <validFrom>2011-09-08 14:31:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.164807</xCoord>
+              <yCoord>59.941806</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Marcus Thranes Vei, mellom nr 36 og nr 39 (ved Robsrud N - Fjellhamarveien)</heading>
+          <messagenumber>44978</messagenumber>
+          <version>1</version>
+          <ingress>Redusert framkommelighet pÃ¥ grunn av vedlikeholdsarbeid. Gjelder fra 02.09.2011 klokken 09:01 til 31.10.2011 klokken 23:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>355</roadNumber>
+          <validFrom>2011-09-02 09:01:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.95924</xCoord>
+              <yCoord>59.939284</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.963546</xCoord>
+              <yCoord>59.938089</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>LÃ¸renskog/Skedsmo - Stalsb.hagen, (Kurlandsbekken - Stalsberg)</heading>
+          <messagenumber>47081</messagenumber>
+          <version>1</version>
+          <ingress>Stedvis manuell dirigering pÃ¥ grunn av dekkelegging i periodene: Mandag til fredag fra 09:00 til 21:00. Gjelder fra 17.10.2011 til 21.10.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>376</roadNumber>
+          <validFrom>2011-10-17 09:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.012578</xCoord>
+              <yCoord>59.939932</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.01997</xCoord>
+              <yCoord>59.945848</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Jonas Lies Gate (i Skedsmo kommune)</heading>
+          <messagenumber>45650</messagenumber>
+          <version>3</version>
+          <ingress>Ett felt stengt og manuell dirigering pÃ¥ grunn av vedlikeholdsarbeid i periodene: Alle dager fra 06:00 til 21:00. Arbeidet ventes avsluttet 14.10.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>381</roadNumber>
+          <validFrom>2011-10-14 08:34:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.041007</xCoord>
+              <yCoord>59.954787</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.034387</xCoord>
+              <yCoord>59.957445</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Kjus - Skedsmovollen</heading>
+          <messagenumber>43100</messagenumber>
+          <version>2</version>
+          <ingress>Nedsatt hastighet til 50 km/t og manuell dirigering pÃ¥ grunn av dekkelegging i periodene: Alle dager fra 06:00 til 19:00. Arbeidet ventes avsluttet 17.10.2011.</ingress>
+          <freetext>kryss Skedsmovollen Fv 120</freetext>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>382</roadNumber>
+          <validFrom>2011-10-07 12:49:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.077747</xCoord>
+              <yCoord>59.991521</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.044392</xCoord>
+              <yCoord>59.997186</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Branderudveien, krysset Gauteidveien (ved Ã…rÃ¥sen - Haugli)</heading>
+          <messagenumber>43636</messagenumber>
+          <version>2</version>
+          <ingress>Manuell dirigering pÃ¥ grunn av vegarbeid i periodene: Alle dager fra 06:00 til 20:00. Arbeidet ventes avsluttet 31.12.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>382</roadNumber>
+          <validFrom>2011-08-03 10:05:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.097904</xCoord>
+              <yCoord>59.998131</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Ã…rÃ¥sen - Haugli, ved Leirsund</heading>
+          <messagenumber>44166</messagenumber>
+          <version>3</version>
+          <ingress>Manuell dirigering pÃ¥ grunn av dekkelegging i periodene: Alle dager fra 06:00 til 19:00. Gjelder fra 10.10.2011 til 17.10.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>382</roadNumber>
+          <validFrom>2011-10-10 06:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.088092</xCoord>
+              <yCoord>59.997022</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Kjellerholen (i Skedsmo kommune)</heading>
+          <messagenumber>45725</messagenumber>
+          <version>1</version>
+          <ingress>Innsnevring pÃ¥ grunn av vegarbeid. Arbeidet ventes avsluttet 31.10.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>383</roadNumber>
+          <validFrom>2011-09-16 15:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.011905</xCoord>
+              <yCoord>59.980472</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>StrÃ¸mmen Kirke</heading>
+          <messagenumber>45649</messagenumber>
+          <version>2</version>
+          <ingress>Manuell dirigering pÃ¥ grunn av vegarbeid. Gjelder fra 15.09.2011 klokken 11:00 til 31.10.2011 klokken 23:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>385</roadNumber>
+          <validFrom>2011-09-15 11:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.015138</xCoord>
+              <yCoord>59.953159</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Gamleveien (i Nittedal kommune)</heading>
+          <messagenumber>46731</messagenumber>
+          <version>1</version>
+          <ingress>Manuell dirigering pÃ¥ grunn av dekkelegging. Gjelder fra 05.10.2011 klokken 12:33 til 20.10.2011 klokken 23:59.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>402</roadNumber>
+          <validFrom>2011-10-05 12:33:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.83043</xCoord>
+              <yCoord>60.124595</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.881718</xCoord>
+              <yCoord>60.05391</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>SAGSTUVEIEN 1 (i Nittedal kommune)</heading>
+          <messagenumber>46134</messagenumber>
+          <version>2</version>
+          <ingress>Manuell dirigering og nedsatt hastighet til 50 km/t pÃ¥ grunn av vedlikeholdsarbeid. Gjelder fra 07.10.2011 klokken 12:46 til 17.10.2011 klokken 00:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>402</roadNumber>
+          <validFrom>2011-10-07 12:46:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.835273</xCoord>
+              <yCoord>60.118338</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Sand - Vilberg (OlalÃ¸kka Syd bru)</heading>
+          <messagenumber>47087</messagenumber>
+          <version>1</version>
+          <ingress>Lysregulering pÃ¥ grunn av vegarbeid. Arbeidet ventes avsluttet 30.11.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>460</roadNumber>
+          <validFrom>2011-10-23 00:01:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.137477</xCoord>
+              <yCoord>60.162365</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.137844</xCoord>
+              <yCoord>60.162773</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Vormsund Bru V - Nes/Eidsvoll, (Vormsund - BrÃ¥rud)</heading>
+          <messagenumber>46926</messagenumber>
+          <version>1</version>
+          <ingress>Manuell dirigering pÃ¥ grunn av vedlikeholdsarbeid.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>480</roadNumber>
+          <validFrom>2011-10-18 08:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.415891</xCoord>
+              <yCoord>60.153481</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.338173</xCoord>
+              <yCoord>60.208467</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Smestad - Dokken</heading>
+          <messagenumber>41022</messagenumber>
+          <version>2</version>
+          <ingress>Redusert framkommelighet og innsnevring pÃ¥ grunn av vegarbeid. Arbeidet ventes avsluttet 31.12.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>501</roadNumber>
+          <validFrom>2011-06-03 00:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.199567</xCoord>
+              <yCoord>60.386777</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.210162</xCoord>
+              <yCoord>60.365504</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Dal - BÃ¥rli, ved Dal</heading>
+          <messagenumber>46983</messagenumber>
+          <version>1</version>
+          <ingress>Innsnevring og manuell dirigering pÃ¥ grunn av vegarbeid. Gjelder fra 17.10.2011 klokken 00:00 til 28.10.2011 klokken 00:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>503</roadNumber>
+          <validFrom>2011-10-17 00:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.203074</xCoord>
+              <yCoord>60.248552</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Dal Skole V - Dal</heading>
+          <messagenumber>45515</messagenumber>
+          <version>1</version>
+          <ingress>Innsnevring pÃ¥ grunn av vegarbeid. Gjelder fra 13.09.2011 klokken 10:04 til 31.10.2011 klokken 23:59.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>504</roadNumber>
+          <validFrom>2011-09-13 10:04:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.173007</xCoord>
+              <yCoord>60.246699</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>11.21347</xCoord>
+              <yCoord>60.291099</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Gunhildkleiva - Hedm/Budalsbekken Br, ved SkrÃ¥rud</heading>
+          <messagenumber>47225</messagenumber>
+          <version>1</version>
+          <ingress>Stengt i korte perioder pÃ¥ grunn av sprengningsarbeid i periodene: Alle dager fra 07:00 til 20:00. Arbeidet ventes avsluttet 15.11.2011.</ingress>
+          <freetext>Gjelder SkrÃ¥rud - Strandlykkja.</freetext>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>512</roadNumber>
+          <validFrom>2011-10-14 07:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>11.232129</xCoord>
+              <yCoord>60.494493</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Blommenholm - HÃ¸vik Stasjon, ved Blommenholm</heading>
+          <messagenumber>46984</messagenumber>
+          <version>1</version>
+          <ingress>Redusert framkommelighet pÃ¥ grunn av vedlikeholdsarbeid i periodene: Alle dager fra 07:00 til 17:00. Arbeidet ventes avsluttet 20.10.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>605</roadNumber>
+          <validFrom>2011-10-11 07:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.555568</xCoord>
+              <yCoord>59.893291</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Storengveien, krysset LÃ¸venskiolds Vei (ved Stabekk - Jar Skole)</heading>
+          <messagenumber>40043</messagenumber>
+          <version>3</version>
+          <ingress>Redusert framkommelighet pÃ¥ grunn av vedlikeholdsarbeid i periodene: Alle dager fra 07:00 til 20:00. Arbeidet ventes avsluttet 30.11.2011.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>611</roadNumber>
+          <validFrom>2011-05-26 15:40:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.623367</xCoord>
+              <yCoord>59.919466</yCoord>
+            </startPoint>
+          </coordinates>
+        </message>
+        <message>
+          <heading>Nadderudveien, mellom Vollsveien og Rideveien (i BÃ¦rum kommune)</heading>
+          <messagenumber>47092</messagenumber>
+          <version>1</version>
+          <ingress>Innsnevring i periodene: Alle dager fra 07:00 til 19:00.</ingress>
+          <messageType>Redusert framkommelighet</messageType>
+          <urgency>N</urgency>
+          <roadType>Fv</roadType>
+          <roadNumber>614</roadNumber>
+          <validFrom>2011-10-17 07:00:00.0 CEST</validFrom>
+          <actualCounties>
+            <string>Akershus</string>
+          </actualCounties>
+          <coordinates>
+            <crs>EPSG:4326</crs>
+            <startPoint>
+              <xCoord>10.626871</xCoord>
+              <yCoord>59.942764</yCoord>
+            </startPoint>
+            <endPoint>
+              <xCoord>10.618639</xCoord>
+              <yCoord>59.941976</yCoord>
+            </endPoint>
+          </coordinates>
+        </message>
+      </messages>
+    </result>
+  </result-array>
 
-
-
-	<searchresult>
-	    <result-array>
-  <result>
-    <messages>
-      <message>
-        <heading>Moss - Vinterbro</heading>
-        <messagenumber>44878</messagenumber>
-        <version>7</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>6</roadNumber>
-        <validFrom>2011-10-15 18:52:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Østfold</string>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.701419</xCoord>
-            <yCoord>59.445343</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.779037</xCoord>
-            <yCoord>59.740541</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Vinterbro - Moss, ved Grimsrudbrua, i retning mot Moss</heading>
-        <messagenumber>44437</messagenumber>
-        <version>3</version>
-        <ingress>Nedsatt hastighet til 50 km/t og innsnevring på grunn av vedlikeholdsarbeid. Gjelder fra 24.08.2011 klokken 21:00 til 10.03.2012 klokken 21:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>6</roadNumber>
-        <validFrom>2011-08-24 21:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.720294</xCoord>
-            <yCoord>59.509561</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Oslo (Ulven) - Vinterbro, ved [27] Klemetsrudkrysset, i retning mot Vinterbro</heading>
-        <messagenumber>47135</messagenumber>
-        <version>1</version>
-        <ingress>Stengt på grunn av vegarbeid i periodene: Fredag og lørdag fra 22:00 til 09:00 (neste dag). Omkjøring er skiltet. Gjelder fra 14.10.2011 til 15.10.2011.</ingress>
-        <messageType>Midlertidig stengt</messageType>
-        <urgency>X</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>6</roadNumber>
-        <validFrom>2011-10-14 22:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.839612</xCoord>
-            <yCoord>59.839272</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Oslo - Karihaugen, (Alnabru bomstasjon - [40] Trosterud)</heading>
-        <messagenumber>45712</messagenumber>
-        <version>1</version>
-        <ingress>Innsnevring på grunn av vegarbeid. Arbeidet ventes avsluttet 15.12.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>6</roadNumber>
-        <validFrom>2011-09-17 00:01:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.845222</xCoord>
-            <yCoord>59.924164</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.865126</xCoord>
-            <yCoord>59.929671</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>[49] Langeland-krysset - Strandlykkja</heading>
-        <messagenumber>44894</messagenumber>
-        <version>3</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>6</roadNumber>
-        <validFrom>2011-10-15 18:22:36.501 CEST</validFrom>
-        <actualCounties>
-          <string>Hedmark</string>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.161966</xCoord>
-            <yCoord>60.131008</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.243726</xCoord>
-            <yCoord>60.516951</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Gardermoen - Minnesund, (Dal - Minnesund)</heading>
-        <messagenumber>47048</messagenumber>
-        <version>1</version>
-        <ingress>Stengt på grunn av vegarbeid. Omkjøring er skiltet. Gjelder fra 17.10.2011 klokken 05:00 til 21.10.2011 klokken 05:00.</ingress>
-        <messageType>Midlertidig stengt</messageType>
-        <urgency>X</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>6</roadNumber>
-        <validFrom>2011-10-17 05:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.181248</xCoord>
-            <yCoord>60.243218</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.220895</xCoord>
-            <yCoord>60.393871</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Gardermoen - Minnesund, ved [55] Ormlia-krysset</heading>
-        <messagenumber>45720</messagenumber>
-        <version>3</version>
-        <ingress>Innsnevring på grunn av vegarbeid. Fare for kø. Arbeidet ventes avsluttet 04.11.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>6</roadNumber>
-        <validFrom>2011-09-19 07:38:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.144661</xCoord>
-            <yCoord>60.313215</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Gardermoen - Minnesund, ved [58] Minnesund-krysset</heading>
-        <messagenumber>44671</messagenumber>
-        <version>1</version>
-        <ingress>Nedsatt hastighet til 50 km/t på grunn av opprydningsarbeid.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>6</roadNumber>
-        <validFrom>2011-08-29 12:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.22204</xCoord>
-            <yCoord>60.393831</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Ørbekk - Brøhaug</heading>
-        <messagenumber>44440</messagenumber>
-        <version>2</version>
-        <ingress>Nedsatt hastighet til 50 km/t vegarbeid. Fare for kø. Arbeidet ventes avsluttet 30.11.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>6</roadNumber>
-        <validFrom>2011-08-23 14:09:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.240319</xCoord>
-            <yCoord>60.423638</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.24281</xCoord>
-            <yCoord>60.46051</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Minnesund - Hamar, ([59] Langset-krysset - Strandlykkja)</heading>
-        <messagenumber>45305</messagenumber>
-        <version>3</version>
-        <ingress>Nedsatt hastighet til 50 km/t og manuell dirigering på grunn av vegarbeid. Arbeidet ventes avsluttet 31.12.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>6</roadNumber>
-        <validFrom>2011-09-09 07:09:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Hedmark</string>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.241483</xCoord>
-            <yCoord>60.413939</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.243726</xCoord>
-            <yCoord>60.516951</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Minnesund - Hamar, (Brøhaug - Strandlykkja)</heading>
-        <messagenumber>45002</messagenumber>
-        <version>2</version>
-        <ingress>Stengt i korte perioder på grunn av sprengningsarbeid. Gjelder fra 02.09.2011 klokken 13:45 til 31.12.2011 klokken 23:59.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>6</roadNumber>
-        <validFrom>2011-09-02 13:45:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Hedmark</string>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.24281</xCoord>
-            <yCoord>60.46051</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.243726</xCoord>
-            <yCoord>60.516951</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Sollihøgda - Hønefoss</heading>
-        <messagenumber>47153</messagenumber>
-        <version>1</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>16</roadNumber>
-        <validFrom>2011-10-14 12:04:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Buskerud</string>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.361346</xCoord>
-            <yCoord>59.959052</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.229601</xCoord>
-            <yCoord>60.178968</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>[18] Holmenkrysset, påkjøringsveg, i retning mot øst</heading>
-        <messagenumber>47086</messagenumber>
-        <version>1</version>
-        <ingress>Nedsatt hastighet til 50 km/t og innsnevring på grunn av vegarbeid i periodene: Mandag til torsdag fra 22:00 til 05:30 (neste dag).</ingress>
-        <freetext>Påkjøringsveg retning Oslo.</freetext>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>18</roadNumber>
-        <validFrom>2011-10-17 22:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.480928</xCoord>
-            <yCoord>59.856106</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>[18] Holmenkrysset, avkjøringsveg, i retning mot Liertoppen</heading>
-        <messagenumber>47084</messagenumber>
-        <version>2</version>
-        <ingress>Nedsatt hastighet til 50 km/t og innsnevring på grunn av vegarbeid i periodene: Mandag til torsdag fra 22:00 til 05:30 (neste dag).</ingress>
-        <freetext>Avkjøringsrampe mot Holmen.</freetext>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>18</roadNumber>
-        <validFrom>2011-10-17 22:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.480928</xCoord>
-            <yCoord>59.856106</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Oslo - Sandvika (Festningstunnelen), i retning mot Sandvika</heading>
-        <messagenumber>47122</messagenumber>
-        <version>1</version>
-        <ingress>Toveis trafikk i ett løp på grunn av vedlikeholdsarbeid. Gjelder fra 18.10.2011 klokken 22:00 til 19.10.2011 klokken 05:30.</ingress>
-        <freetext>Gjelder Bjørvika og Festningstunnelen.</freetext>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>18</roadNumber>
-        <validFrom>2011-10-18 22:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.744334</xCoord>
-            <yCoord>59.90664</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.717881</xCoord>
-            <yCoord>59.910092</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Sandvika - Oslo (Festningstunnelen), i retning mot Oslo</heading>
-        <messagenumber>47123</messagenumber>
-        <version>1</version>
-        <ingress>Toveis trafikk i ett løp på grunn av vedlikeholdsarbeid. Gjelder fra 17.10.2011 klokken 22:00 til 18.10.2011 klokken 05:30.</ingress>
-        <freetext>Gjelder Festningstunnelen og Bjørvikatunnelen.</freetext>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>18</roadNumber>
-        <validFrom>2011-10-17 22:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.744334</xCoord>
-            <yCoord>59.90664</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.717881</xCoord>
-            <yCoord>59.910092</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Oslo - Sandvika (Framnes tunnel), i retning mot Sandvika</heading>
-        <messagenumber>47127</messagenumber>
-        <version>1</version>
-        <ingress>Stengt på grunn av vedlikeholdsarbeid. Omkjøring er skiltet. Gjelder fra 18.10.2011 klokken 22:00 til 19.10.2011 klokken 05:30.</ingress>
-        <messageType>Midlertidig stengt</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>18</roadNumber>
-        <validFrom>2011-10-18 22:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.710788</xCoord>
-            <yCoord>59.910172</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.708649</xCoord>
-            <yCoord>59.910443</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Sandvika - Oslo (Framnes tunnel), i retning mot Oslo</heading>
-        <messagenumber>47121</messagenumber>
-        <version>1</version>
-        <ingress>Stengt på grunn av vedlikeholdsarbeid. Omkjøring er skiltet. Gjelder fra 17.10.2011 klokken 22:00 til 18.10.2011 klokken 05:30.</ingress>
-        <messageType>Midlertidig stengt</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>18</roadNumber>
-        <validFrom>2011-10-17 22:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.710788</xCoord>
-            <yCoord>59.910172</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.708649</xCoord>
-            <yCoord>59.910443</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Oslo - Vinterbrokrysset, (Ringneskrysset - Herregårdskrysset)</heading>
-        <messagenumber>45677</messagenumber>
-        <version>4</version>
-        <ingress>Stengt på grunn av vedlikeholdsarbeid i periodene: Alle dager fra 21:00 til 06:00 (neste dag). Omkjøring er skiltet. Rutegående trafikk kan passere. Arbeidet ventes avsluttet 25.11.2011.</ingress>
-        <messageType>Midlertidig stengt</messageType>
-        <urgency>X</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>18</roadNumber>
-        <validFrom>2011-10-07 07:25:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.781514</xCoord>
-            <yCoord>59.756312</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.779507</xCoord>
-            <yCoord>59.838351</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Elvestadkrysset - Mastemyr</heading>
-        <messagenumber>44875</messagenumber>
-        <version>4</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>18</roadNumber>
-        <validFrom>2011-10-15 18:52:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Østfold</string>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.949492</xCoord>
-            <yCoord>59.622788</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.77669</xCoord>
-            <yCoord>59.825601</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Oslo - Vinterbrokrysset, (Mastemyr - Svartskog)</heading>
-        <messagenumber>45678</messagenumber>
-        <version>1</version>
-        <ingress>Nedsatt hastighet til 60 km/t på grunn av vedlikeholdsarbeid. Gjelder fra 19.09.2011 klokken 21:00 til 18.11.2011 klokken 21:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Ev</roadType>
-        <roadNumber>18</roadNumber>
-        <validFrom>2011-09-19 21:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.776836</xCoord>
-            <yCoord>59.825565</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.761857</xCoord>
-            <yCoord>59.785005</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Kløfta - Kongsvinger, (Mogard - Rød)</heading>
-        <messagenumber>43846</messagenumber>
-        <version>3</version>
-        <ingress>Manuell dirigering på grunn av vegarbeid i periodene: Alle dager fra 08:00 til 15:00. Arbeidet ventes avsluttet 31.12.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>2</roadNumber>
-        <validFrom>2011-08-09 08:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.343627</xCoord>
-            <yCoord>60.129863</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.341371</xCoord>
-            <yCoord>60.129491</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Oppaker - Kongsvinger</heading>
-        <messagenumber>44848</messagenumber>
-        <version>4</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>2</roadNumber>
-        <validFrom>2011-10-15 18:36:09.156 CEST</validFrom>
-        <actualCounties>
-          <string>Hedmark</string>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.994923</xCoord>
-            <yCoord>60.192631</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.515651</xCoord>
-            <yCoord>60.179296</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Gjelleråsen - Stryken</heading>
-        <messagenumber>44855</messagenumber>
-        <version>3</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>4</roadNumber>
-        <validFrom>2011-10-15 18:06:10.470 CEST</validFrom>
-        <actualCounties>
-          <string>Oppland</string>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.713236</xCoord>
-            <yCoord>60.163677</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.929462</xCoord>
-            <yCoord>59.988622</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Gjelleråsen - Lunner, ved HADELANDSVEIEN 1318</heading>
-        <messagenumber>46613</messagenumber>
-        <version>1</version>
-        <ingress>Nedsatt hastighet til 50 km/t på grunn av vegarbeid i periodene: Fredag til søndag fra 09:00 til 23:00. Gjelder fra 14.10.2011 til 16.10.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>4</roadNumber>
-        <validFrom>2011-10-14 09:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.868282</xCoord>
-            <yCoord>60.095062</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Fet - Fet (Fetsund bru)</heading>
-        <messagenumber>46228</messagenumber>
-        <version>2</version>
-        <ingress>Nedsatt hastighet til 50 km/t og manuell dirigering på grunn av vegarbeid i periodene: Alle dager fra 21:00 til 05:30 (neste dag). Arbeidet ventes avsluttet 31.10.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>22</roadNumber>
-        <validFrom>2011-09-29 21:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.158637</xCoord>
-            <yCoord>59.924399</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.168776</xCoord>
-            <yCoord>59.923053</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Kjellstad - Oslofjordtunnelen</heading>
-        <messagenumber>47164</messagenumber>
-        <version>1</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>23</roadNumber>
-        <validFrom>2011-10-14 12:30:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Buskerud</string>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.257033</xCoord>
-            <yCoord>59.768196</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.613714</xCoord>
-            <yCoord>59.665039</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Kjellstad - Vassumkrysset (Oslofjordtunnelen)</heading>
-        <messagenumber>47043</messagenumber>
-        <version>1</version>
-        <ingress>Stengt på grunn av vedlikeholdsarbeid i periodene: Mandag til onsdag fra 22:00 til 05:30 (neste dag). Gjelder fra 17.10.2011 til 19.10.2011.</ingress>
-        <freetext>Omkjøring via Oslo.</freetext>
-        <messageType>Midlertidig stengt</messageType>
-        <urgency>X</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>23</roadNumber>
-        <validFrom>2011-10-17 22:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Buskerud</string>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.611099</xCoord>
-            <yCoord>59.662773</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.569409</xCoord>
-            <yCoord>59.662476</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Kjellstad - Vassumkrysset (Oslofjordtunnelen)</heading>
-        <messagenumber>42939</messagenumber>
-        <version>4</version>
-        <ingress>Stengt for kjøretøy med totalvekt over 7,5 tonn.</ingress>
-        <freetext>Anbefalt omkjøring via Oslo, alternativt Rv 19 fergesambandet Moss-Horten.</freetext>
-        <messageType>Midlertidig stengt</messageType>
-        <urgency>X</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>23</roadNumber>
-        <validFrom>2011-08-12 07:50:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Buskerud</string>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.611099</xCoord>
-            <yCoord>59.662773</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.569409</xCoord>
-            <yCoord>59.662476</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Vassumkrysset - Månakrysset</heading>
-        <messagenumber>44880</messagenumber>
-        <version>4</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>23</roadNumber>
-        <validFrom>2011-10-15 18:54:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.659923</xCoord>
-            <yCoord>59.69452</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.73964</xCoord>
-            <yCoord>59.706866</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Krysset Jessheim Nord - Gardermoen</heading>
-        <messagenumber>44850</messagenumber>
-        <version>3</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>35</roadNumber>
-        <validFrom>2011-10-15 18:06:10.474 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.098972</xCoord>
-            <yCoord>60.193337</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.157019</xCoord>
-            <yCoord>60.165326</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Ring 3 (Granfosstunnelen)</heading>
-        <messagenumber>46138</messagenumber>
-        <version>1</version>
-        <ingress>Toveis trafikk i ett løp og nedsatt hastighet til 50 km/t på grunn av vegarbeid. Gjelder fra 11.10.2011 klokken 22:00 til 12.11.2011 klokken 05:30.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>150</roadNumber>
-        <validFrom>2011-10-11 22:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.630244</xCoord>
-            <yCoord>59.918391</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.627484</xCoord>
-            <yCoord>59.911078</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Ring 3 (Smestadtunnelen)</heading>
-        <messagenumber>47128</messagenumber>
-        <version>1</version>
-        <ingress>Stengt på grunn av vedlikeholdsarbeid i periodene: Tirsdag til fredag fra 22:00 til 05:00 (neste dag). Omkjøring er skiltet. Gjelder fra 18.10.2011 til 21.10.2011.</ingress>
-        <messageType>Midlertidig stengt</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>150</roadNumber>
-        <validFrom>2011-10-18 22:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.687595</xCoord>
-            <yCoord>59.938988</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.680107</xCoord>
-            <yCoord>59.936604</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Ring 3, (Økern - Løren Skole)</heading>
-        <messagenumber>46059</messagenumber>
-        <version>1</version>
-        <ingress>Ett felt stengt på grunn av vegarbeid. Gjelder fra 23.09.2011 klokken 22:00 til 01.11.2011 klokken 05:30.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>150</roadNumber>
-        <validFrom>2011-09-23 22:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.802318</xCoord>
-            <yCoord>59.927023</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.801526</xCoord>
-            <yCoord>59.930944</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Hjalmar Brantings Vei, krysset Økernveien (ved Ring 3), avkjøringsfelt, i retning mot Ulvenkrysset</heading>
-        <messagenumber>47129</messagenumber>
-        <version>1</version>
-        <ingress>Stengt på grunn av vegarbeid i periodene: Fredag til søndag, mandag og tirsdag fra 21:00 til 05:30 (neste dag). Omkjøring er skiltet. Gjelder fra 14.10.2011 til 18.10.2011.</ingress>
-        <messageType>Midlertidig stengt</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>150</roadNumber>
-        <validFrom>2011-10-14 21:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.802119</xCoord>
-            <yCoord>59.927733</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Ring 1, ved HAAKON VII&apos;S GATE 9</heading>
-        <messagenumber>43218</messagenumber>
-        <version>1</version>
-        <ingress>Ett felt stengt på grunn av vedlikeholdsarbeid. Arbeidet ventes avsluttet 14.12.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>162</roadNumber>
-        <validFrom>2011-07-18 09:50:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.731136</xCoord>
-            <yCoord>59.914157</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Ring 1, ved RUSELØKKVEIEN 3</heading>
-        <messagenumber>46988</messagenumber>
-        <version>1</version>
-        <ingress>Innsnevring på grunn av vegarbeid. Arbeidet ventes avsluttet 04.11.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>162</roadNumber>
-        <validFrom>2011-10-11 10:44:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.730204</xCoord>
-            <yCoord>59.914307</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Haakon Vii&apos;s Gate, krysset Munkedamsveien (ved Ring 1), i retning mot Filipstad</heading>
-        <messagenumber>47091</messagenumber>
-        <version>1</version>
-        <ingress>Innsnevring på grunn av vedlikeholdsarbeid. Gjelder fra 17.10.2011 klokken 22:00 til 18.10.2011 klokken 06:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>162</roadNumber>
-        <validFrom>2011-10-17 22:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.730681</xCoord>
-            <yCoord>59.913936</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Frederiks Gate, krysset St.Olavs Gate (ved Ring 1), høyre felt, i retning mot Tøyenbekken</heading>
-        <messagenumber>46915</messagenumber>
-        <version>1</version>
-        <ingress>Høyre felt stengt på grunn av vedlikeholdsarbeid. Arbeidet ventes avsluttet 12.11.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>162</roadNumber>
-        <validFrom>2011-10-10 08:59:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.735981</xCoord>
-            <yCoord>59.917839</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Ring 1, ved ST.OLAVS GATE 24</heading>
-        <messagenumber>29877</messagenumber>
-        <version>2</version>
-        <ingress>Innsnevring på grunn av vedlikeholdsarbeid. Arbeidet ventes avsluttet 01.06.2012.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>162</roadNumber>
-        <validFrom>2010-11-09 09:17:00.0 CET</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.737245</xCoord>
-            <yCoord>59.917898</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Østre Akerveg (Brobekkveien O/østre bru), påkjøringsveg, i retning mot Robsrud-krysset</heading>
-        <messagenumber>47076</messagenumber>
-        <version>1</version>
-        <ingress>Innsnevring på grunn av dekkelegging i periodene: Mandag og tirsdag fra 21:00 til 05:30 (neste dag). Gjelder fra 17.10.2011 til 18.10.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>163</roadNumber>
-        <validFrom>2011-10-17 21:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.828091</xCoord>
-            <yCoord>59.932829</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.82835</xCoord>
-            <yCoord>59.93295</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Sørenga - Alnakrysset, ved [63] Lodalsbrua</heading>
-        <messagenumber>47119</messagenumber>
-        <version>2</version>
-        <ingress>Manuell dirigering på grunn av vedlikeholdsarbeid i periodene: Onsdag til fredag fra 22:00 til 05:30 (neste dag). Gjelder fra 19.10.2011 til 21.10.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>U</urgency>
-        <roadType>Rv</roadType>
-        <roadNumber>190</roadNumber>
-        <validFrom>2011-10-19 22:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.781258</xCoord>
-            <yCoord>59.903293</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Gamle Mosseveien, krysset Langliveien (ved Østfold/Nummestad - Østfold/Kåter)</heading>
-        <messagenumber>41237</messagenumber>
-        <version>3</version>
-        <ingress>Nedsatt hastighet til 50 km/t på grunn av vegarbeid. Arbeidet ventes avsluttet 30.12.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>6</roadNumber>
-        <validFrom>2011-09-20 08:55:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.737065</xCoord>
-            <yCoord>59.572541</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Kirkeveien, krysset Vestbyveien (ved Nummestad - Haver)</heading>
-        <messagenumber>45293</messagenumber>
-        <version>3</version>
-        <ingress>Stengt på grunn av vegarbeid i periodene: Alle dager fra 09:00 til 06:00 (neste dag). Omkjøring er skiltet. Arbeidet ventes avsluttet 24.10.2011.</ingress>
-        <messageType>Midlertidig stengt</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>6</roadNumber>
-        <validFrom>2011-10-07 07:06:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.746147</xCoord>
-            <yCoord>59.602906</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Ørje - Skotterud, ved Tangen, i retning mot Skotterud</heading>
-        <messagenumber>45112</messagenumber>
-        <version>1</version>
-        <ingress>Ett felt stengt og manuell dirigering på grunn av vegarbeid. Gjelder fra 04.09.2011 klokken 00:01 til 01.11.2011 klokken 23:59.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>21</roadNumber>
-        <validFrom>2011-09-04 00:01:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.717711</xCoord>
-            <yCoord>59.844339</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Gjelleråsen - Skedsmo, (Gjelleråsen - Lahaug)</heading>
-        <messagenumber>42879</messagenumber>
-        <version>1</version>
-        <ingress>Innsnevring og nedsatt hastighet til 50 km/t på grunn av vegarbeid. Gjelder fra 01.08.2011 klokken 00:00 til 01.12.2011 klokken 23:59.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>22</roadNumber>
-        <validFrom>2011-08-01 00:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.929854</xCoord>
-            <yCoord>59.988674</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.969768</xCoord>
-            <yCoord>59.980501</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Langhus - Siggerud, ved VEVELSTADVEIEN 2</heading>
-        <messagenumber>46610</messagenumber>
-        <version>1</version>
-        <ingress>Nedsatt hastighet til 50 km/t og manuell dirigering på grunn av dekkelegging i periodene: Mandag til fredag fra 19:00 til 06:00 (neste dag).</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>32</roadNumber>
-        <validFrom>2011-10-03 19:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.837337</xCoord>
-            <yCoord>59.749548</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Minnesund-krysset - Feiring</heading>
-        <messagenumber>44910</messagenumber>
-        <version>3</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>33</roadNumber>
-        <validFrom>2011-10-15 18:06:10.466 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.15747</xCoord>
-            <yCoord>60.484</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.222363</xCoord>
-            <yCoord>60.393256</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Kapellveien, krysset Skoklefaldsvingen (ved Flaskebekk - Skoklefall)</heading>
-        <messagenumber>44793</messagenumber>
-        <version>1</version>
-        <ingress>Nedsatt hastighet til 60 km/t og manuell dirigering på grunn av vegarbeid. Arbeidet ventes avsluttet 30.11.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>106</roadNumber>
-        <validFrom>2011-09-01 07:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.667991</xCoord>
-            <yCoord>59.847224</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Storgata, ved Vestbygata (i Skedsmo kommune)</heading>
-        <messagenumber>45792</messagenumber>
-        <version>1</version>
-        <ingress>Innsnevring på grunn av vegarbeid. Arbeidet ventes avsluttet 15.12.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>120</roadNumber>
-        <validFrom>2011-09-19 01:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.051036</xCoord>
-            <yCoord>59.963122</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Rælingen - Tomter</heading>
-        <messagenumber>44924</messagenumber>
-        <version>4</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>120</roadNumber>
-        <validFrom>2011-10-15 18:53:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.092982</xCoord>
-            <yCoord>59.864077</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.077995</xCoord>
-            <yCoord>59.919443</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Hektner (i Rælingen kommune)</heading>
-        <messagenumber>46914</messagenumber>
-        <version>1</version>
-        <ingress>Innsnevring og nedsatt hastighet til 50 km/t på grunn av vedlikeholdsarbeid. Arbeidet ventes avsluttet 30.11.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>120</roadNumber>
-        <validFrom>2011-10-10 00:01:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.099309</xCoord>
-            <yCoord>59.893442</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Kolbotn Kirke - Taraldrunkr. V Rundkjøring, ved Sofiemyr</heading>
-        <messagenumber>41223</messagenumber>
-        <version>1</version>
-        <ingress>Ett felt stengt og nedsatt hastighet til 50 km/t på grunn av vedlikeholdsarbeid. Gjelder fra 09.06.2011 klokken 10:00 til 26.12.2011 klokken 14:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>129</roadNumber>
-        <validFrom>2011-06-09 10:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.81999</xCoord>
-            <yCoord>59.797334</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Drøbak - Mastemyr</heading>
-        <messagenumber>44925</messagenumber>
-        <version>4</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>152</roadNumber>
-        <validFrom>2011-10-15 18:53:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Oslo</string>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.630795</xCoord>
-            <yCoord>59.663799</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.780186</xCoord>
-            <yCoord>59.823978</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Oppegård - Oppegård (Liavegen bru)</heading>
-        <messagenumber>45520</messagenumber>
-        <version>1</version>
-        <ingress>Innsnevring og lysregulering på grunn av vegarbeid. Gjelder fra 13.09.2011 klokken 10:52 til 31.10.2011 klokken 07:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>152</roadNumber>
-        <validFrom>2011-09-13 10:52:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.795958</xCoord>
-            <yCoord>59.812877</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.795879</xCoord>
-            <yCoord>59.812898</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Måna - Mastemyr, ved Mastemyr</heading>
-        <messagenumber>39299</messagenumber>
-        <version>1</version>
-        <ingress>Redusert framkommelighet på grunn av vegarbeid. Arbeidet ventes avsluttet 31.10.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>152</roadNumber>
-        <validFrom>2011-02-01 08:03:00.0 CET</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.780166</xCoord>
-            <yCoord>59.823962</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Nygårdskrysset - Klokkerud</heading>
-        <messagenumber>44927</messagenumber>
-        <version>4</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>154</roadNumber>
-        <validFrom>2011-10-15 18:53:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.7856</xCoord>
-            <yCoord>59.724288</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.866979</xCoord>
-            <yCoord>59.722894</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Klemmetsrud - Tangen</heading>
-        <messagenumber>44928</messagenumber>
-        <version>4</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>155</roadNumber>
-        <validFrom>2011-10-15 18:53:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.055601</xCoord>
-            <yCoord>59.722434</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.009402</xCoord>
-            <yCoord>59.73862</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Ringnes  - Nesoddtangen</heading>
-        <messagenumber>44929</messagenumber>
-        <version>4</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>156</roadNumber>
-        <validFrom>2011-10-15 18:53:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.655707</xCoord>
-            <yCoord>59.869677</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.782295</xCoord>
-            <yCoord>59.756731</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Vassumkrysset - Ringnes, ved Ringnes</heading>
-        <messagenumber>47051</messagenumber>
-        <version>1</version>
-        <ingress>Manuell dirigering på grunn av dekkelegging i periodene: Alle dager fra 22:00 til 06:00 (neste dag). Arbeidet ventes avsluttet 25.10.2011 klokken 06:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>156</roadNumber>
-        <validFrom>2011-10-18 22:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.782283</xCoord>
-            <yCoord>59.756727</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Sønstedal - Granholt</heading>
-        <messagenumber>44930</messagenumber>
-        <version>4</version>
-        <ingress>Bart.</ingress>
-        <messageType>Vær- og føreforhold</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>157</roadNumber>
-        <validFrom>2011-10-15 18:54:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.691771</xCoord>
-            <yCoord>59.736187</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.666139</xCoord>
-            <yCoord>59.85996</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Leif Larsens Vei, mellom nr 1 og nr 32 (ved Ringeriksveien - Brynsveien)</heading>
-        <messagenumber>41248</messagenumber>
-        <version>1</version>
-        <ingress>Stengt på grunn av vedlikeholdsarbeid i periodene: Alle dager fra 05:30 til 17:00. Omkjøring er skiltet. Arbeidet ventes avsluttet 28.11.2011.</ingress>
-        <messageType>Midlertidig stengt</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>164</roadNumber>
-        <validFrom>2011-06-08 05:30:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.520875</xCoord>
-            <yCoord>59.892959</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.52091</xCoord>
-            <yCoord>59.896787</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Leif Larsens Vei, mellom Engervannsveien og Skytterdalen (ved Ringeriksveien - Brynsveien)</heading>
-        <messagenumber>44152</messagenumber>
-        <version>3</version>
-        <ingress>Manuell dirigering på grunn av sprengningsarbeid i periodene: Mandag til fredag fra 08:00 til 19:00. Arbeidet ventes avsluttet 01.12.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>164</roadNumber>
-        <validFrom>2011-09-16 08:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.521904</xCoord>
-            <yCoord>59.895688</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.521436</xCoord>
-            <yCoord>59.892707</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Engervannsveien, krysset Folangerveien (ved Ringeriksveien - Brynsveien)</heading>
-        <messagenumber>44422</messagenumber>
-        <version>1</version>
-        <ingress>Redusert framkommelighet på grunn av vegarbeid. Arbeidet ventes avsluttet 08.08.2012.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>164</roadNumber>
-        <validFrom>2011-08-23 10:49:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.526071</xCoord>
-            <yCoord>59.894369</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Leangbukta (7 km nord for Slemmestad)</heading>
-        <messagenumber>46736</messagenumber>
-        <version>1</version>
-        <ingress>Nedsatt hastighet til 40 km/t på grunn av vegarbeid i periodene: Alle dager fra 07:00 til 21:00. Arbeidet ventes avsluttet 30.11.2011 klokken 21:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>165</roadNumber>
-        <validFrom>2011-10-06 07:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.47713</xCoord>
-            <yCoord>59.838933</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Leangbukta (i Asker kommune)</heading>
-        <messagenumber>45589</messagenumber>
-        <version>4</version>
-        <ingress>Innsnevring på grunn av vegarbeid i periodene: Mandag til fredag fra 07:00 til 21:00. Arbeidet ventes avsluttet 30.11.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>165</roadNumber>
-        <validFrom>2011-10-07 07:22:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.47713</xCoord>
-            <yCoord>59.838933</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Fjellsrud - Løken (Sotbråten bru)</heading>
-        <messagenumber>43130</messagenumber>
-        <version>1</version>
-        <ingress>Lysregulering på grunn av vedlikeholdsarbeid. Arbeidet ventes avsluttet 31.10.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>169</roadNumber>
-        <validFrom>2011-07-18 00:01:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.322974</xCoord>
-            <yCoord>59.860954</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.323074</xCoord>
-            <yCoord>59.86097</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Hval - Rotnes, ved Hvam Videregående Skole</heading>
-        <messagenumber>44784</messagenumber>
-        <version>1</version>
-        <ingress>Redusert framkommelighet og nedsatt hastighet til 50 km/t på grunn av vegarbeid. Gjelder fra 31.08.2011 klokken 00:00 til 31.10.2011 klokken 00:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>173</roadNumber>
-        <validFrom>2011-08-31 00:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.37751</xCoord>
-            <yCoord>60.102369</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Årnes - Funnefoss</heading>
-        <messagenumber>44077</messagenumber>
-        <version>2</version>
-        <ingress>Redusert framkommelighet på grunn av flom. Omkjøring er skiltet for kjøretøy med totalvekt over 3,5 tonn.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>175</roadNumber>
-        <validFrom>2011-08-15 17:01:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.463689</xCoord>
-            <yCoord>60.122335</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.53826</xCoord>
-            <yCoord>60.16452</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Algarheimsvegen, ved Gardermovegen (i Ullensaker kommune)</heading>
-        <messagenumber>45639</messagenumber>
-        <version>1</version>
-        <ingress>Redusert framkommelighet på grunn av vegarbeid. Gjelder fra 15.09.2011 klokken 09:00 til 31.05.2012 klokken 23:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>178</roadNumber>
-        <validFrom>2011-09-15 09:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.175333</xCoord>
-            <yCoord>60.141476</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Bogsrud - Sand, ved Gullverket</heading>
-        <messagenumber>45507</messagenumber>
-        <version>2</version>
-        <ingress>Manuell dirigering på grunn av vedlikeholdsarbeid i periodene: Alle dager fra 00:01 til 23:59. Arbeidet ventes avsluttet 31.10.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>181</roadNumber>
-        <validFrom>2011-10-07 07:17:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.346863</xCoord>
-            <yCoord>60.366462</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Idrettsveien, krysset Billingstadveien (ved Billingstad - Asker/Bærum)</heading>
-        <messagenumber>47085</messagenumber>
-        <version>1</version>
-        <ingress>Manuell dirigering på grunn av vegarbeid i periodene: Mandag til lørdag fra 09:00 til 17:00. Gjelder fra 17.10.2011 til 22.10.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>202</roadNumber>
-        <validFrom>2011-10-17 09:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.471323</xCoord>
-            <yCoord>59.87753</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Engelsrud - Vollen, ved Dikemark Sykehus</heading>
-        <messagenumber>46606</messagenumber>
-        <version>2</version>
-        <ingress>Innsnevring på grunn av vegarbeid i periodene: Alle dager fra 07:00 til 19:00. Arbeidet ventes avsluttet 31.12.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>204</roadNumber>
-        <validFrom>2011-10-06 00:57:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.372983</xCoord>
-            <yCoord>59.805131</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Skogheim - Åserud, ved Åserud</heading>
-        <messagenumber>43656</messagenumber>
-        <version>1</version>
-        <ingress>Nedsatt hastighet til 50 km/t og manuell dirigering på grunn av dekkelegging. Arbeidet ventes avsluttet 15.02.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>228</roadNumber>
-        <validFrom>2011-08-08 06:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.725129</xCoord>
-            <yCoord>59.799581</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Haugrim - Øysjøen</heading>
-        <messagenumber>44478</messagenumber>
-        <version>2</version>
-        <ingress>Manuell dirigering på grunn av vegarbeid i periodene: Mandag til fredag fra 07:00 til 21:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>235</roadNumber>
-        <validFrom>2011-08-29 07:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.592495</xCoord>
-            <yCoord>59.903577</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.81148</xCoord>
-            <yCoord>59.94028</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Lierfoss - Bjørknessjøen (Våler bru)</heading>
-        <messagenumber>46775</messagenumber>
-        <version>1</version>
-        <ingress>Lysregulering på grunn av dekkelegging i periodene: Mandag til fredag fra 07:00 til 19:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>236</roadNumber>
-        <validFrom>2011-10-10 07:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.532578</xCoord>
-            <yCoord>59.919695</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.532648</xCoord>
-            <yCoord>59.919811</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Skedsmo/Sørum - Hval, ved Hval</heading>
-        <messagenumber>43938</messagenumber>
-        <version>1</version>
-        <ingress>Innsnevring på grunn av vegarbeid. Gjelder fra 03.08.2011 klokken 10:39 til 31.12.2011 klokken 20:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>259</roadNumber>
-        <validFrom>2011-08-03 10:39:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.116745</xCoord>
-            <yCoord>60.022482</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Garderåsen (i Fet kommune)</heading>
-        <messagenumber>45280</messagenumber>
-        <version>1</version>
-        <ingress>Innsnevring på grunn av jordras.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>279</roadNumber>
-        <validFrom>2011-09-08 14:31:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.164807</xCoord>
-            <yCoord>59.941806</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Marcus Thranes Vei, mellom nr 36 og nr 39 (ved Robsrud N - Fjellhamarveien)</heading>
-        <messagenumber>44978</messagenumber>
-        <version>1</version>
-        <ingress>Redusert framkommelighet på grunn av vedlikeholdsarbeid. Gjelder fra 02.09.2011 klokken 09:01 til 31.10.2011 klokken 23:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>355</roadNumber>
-        <validFrom>2011-09-02 09:01:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.95924</xCoord>
-            <yCoord>59.939284</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.963546</xCoord>
-            <yCoord>59.938089</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Lørenskog/Skedsmo - Stalsb.hagen, (Kurlandsbekken - Stalsberg)</heading>
-        <messagenumber>47081</messagenumber>
-        <version>1</version>
-        <ingress>Stedvis manuell dirigering på grunn av dekkelegging i periodene: Mandag til fredag fra 09:00 til 21:00. Gjelder fra 17.10.2011 til 21.10.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>376</roadNumber>
-        <validFrom>2011-10-17 09:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.012578</xCoord>
-            <yCoord>59.939932</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.01997</xCoord>
-            <yCoord>59.945848</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Jonas Lies Gate (i Skedsmo kommune)</heading>
-        <messagenumber>45650</messagenumber>
-        <version>3</version>
-        <ingress>Ett felt stengt og manuell dirigering på grunn av vedlikeholdsarbeid i periodene: Alle dager fra 06:00 til 21:00. Arbeidet ventes avsluttet 14.10.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>381</roadNumber>
-        <validFrom>2011-10-14 08:34:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.041007</xCoord>
-            <yCoord>59.954787</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.034387</xCoord>
-            <yCoord>59.957445</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Kjus - Skedsmovollen</heading>
-        <messagenumber>43100</messagenumber>
-        <version>2</version>
-        <ingress>Nedsatt hastighet til 50 km/t og manuell dirigering på grunn av dekkelegging i periodene: Alle dager fra 06:00 til 19:00. Arbeidet ventes avsluttet 17.10.2011.</ingress>
-        <freetext>kryss Skedsmovollen Fv 120</freetext>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>382</roadNumber>
-        <validFrom>2011-10-07 12:49:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.077747</xCoord>
-            <yCoord>59.991521</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.044392</xCoord>
-            <yCoord>59.997186</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Branderudveien, krysset Gauteidveien (ved Åråsen - Haugli)</heading>
-        <messagenumber>43636</messagenumber>
-        <version>2</version>
-        <ingress>Manuell dirigering på grunn av vegarbeid i periodene: Alle dager fra 06:00 til 20:00. Arbeidet ventes avsluttet 31.12.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>382</roadNumber>
-        <validFrom>2011-08-03 10:05:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.097904</xCoord>
-            <yCoord>59.998131</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Åråsen - Haugli, ved Leirsund</heading>
-        <messagenumber>44166</messagenumber>
-        <version>3</version>
-        <ingress>Manuell dirigering på grunn av dekkelegging i periodene: Alle dager fra 06:00 til 19:00. Gjelder fra 10.10.2011 til 17.10.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>382</roadNumber>
-        <validFrom>2011-10-10 06:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.088092</xCoord>
-            <yCoord>59.997022</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Kjellerholen (i Skedsmo kommune)</heading>
-        <messagenumber>45725</messagenumber>
-        <version>1</version>
-        <ingress>Innsnevring på grunn av vegarbeid. Arbeidet ventes avsluttet 31.10.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>383</roadNumber>
-        <validFrom>2011-09-16 15:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.011905</xCoord>
-            <yCoord>59.980472</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Strømmen Kirke</heading>
-        <messagenumber>45649</messagenumber>
-        <version>2</version>
-        <ingress>Manuell dirigering på grunn av vegarbeid. Gjelder fra 15.09.2011 klokken 11:00 til 31.10.2011 klokken 23:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>385</roadNumber>
-        <validFrom>2011-09-15 11:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.015138</xCoord>
-            <yCoord>59.953159</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Gamleveien (i Nittedal kommune)</heading>
-        <messagenumber>46731</messagenumber>
-        <version>1</version>
-        <ingress>Manuell dirigering på grunn av dekkelegging. Gjelder fra 05.10.2011 klokken 12:33 til 20.10.2011 klokken 23:59.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>402</roadNumber>
-        <validFrom>2011-10-05 12:33:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.83043</xCoord>
-            <yCoord>60.124595</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.881718</xCoord>
-            <yCoord>60.05391</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>SAGSTUVEIEN 1 (i Nittedal kommune)</heading>
-        <messagenumber>46134</messagenumber>
-        <version>2</version>
-        <ingress>Manuell dirigering og nedsatt hastighet til 50 km/t på grunn av vedlikeholdsarbeid. Gjelder fra 07.10.2011 klokken 12:46 til 17.10.2011 klokken 00:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>402</roadNumber>
-        <validFrom>2011-10-07 12:46:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.835273</xCoord>
-            <yCoord>60.118338</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Sand - Vilberg (Olaløkka Syd bru)</heading>
-        <messagenumber>47087</messagenumber>
-        <version>1</version>
-        <ingress>Lysregulering på grunn av vegarbeid. Arbeidet ventes avsluttet 30.11.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>460</roadNumber>
-        <validFrom>2011-10-23 00:01:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.137477</xCoord>
-            <yCoord>60.162365</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.137844</xCoord>
-            <yCoord>60.162773</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Vormsund Bru V - Nes/Eidsvoll, (Vormsund - Brårud)</heading>
-        <messagenumber>46926</messagenumber>
-        <version>1</version>
-        <ingress>Manuell dirigering på grunn av vedlikeholdsarbeid.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>480</roadNumber>
-        <validFrom>2011-10-18 08:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.415891</xCoord>
-            <yCoord>60.153481</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.338173</xCoord>
-            <yCoord>60.208467</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Smestad - Dokken</heading>
-        <messagenumber>41022</messagenumber>
-        <version>2</version>
-        <ingress>Redusert framkommelighet og innsnevring på grunn av vegarbeid. Arbeidet ventes avsluttet 31.12.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>501</roadNumber>
-        <validFrom>2011-06-03 00:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.199567</xCoord>
-            <yCoord>60.386777</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.210162</xCoord>
-            <yCoord>60.365504</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Dal - Bårli, ved Dal</heading>
-        <messagenumber>46983</messagenumber>
-        <version>1</version>
-        <ingress>Innsnevring og manuell dirigering på grunn av vegarbeid. Gjelder fra 17.10.2011 klokken 00:00 til 28.10.2011 klokken 00:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>503</roadNumber>
-        <validFrom>2011-10-17 00:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.203074</xCoord>
-            <yCoord>60.248552</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Dal Skole V - Dal</heading>
-        <messagenumber>45515</messagenumber>
-        <version>1</version>
-        <ingress>Innsnevring på grunn av vegarbeid. Gjelder fra 13.09.2011 klokken 10:04 til 31.10.2011 klokken 23:59.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>504</roadNumber>
-        <validFrom>2011-09-13 10:04:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.173007</xCoord>
-            <yCoord>60.246699</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>11.21347</xCoord>
-            <yCoord>60.291099</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Gunhildkleiva - Hedm/Budalsbekken Br, ved Skrårud</heading>
-        <messagenumber>47225</messagenumber>
-        <version>1</version>
-        <ingress>Stengt i korte perioder på grunn av sprengningsarbeid i periodene: Alle dager fra 07:00 til 20:00. Arbeidet ventes avsluttet 15.11.2011.</ingress>
-        <freetext>Gjelder Skrårud - Strandlykkja.</freetext>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>512</roadNumber>
-        <validFrom>2011-10-14 07:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>11.232129</xCoord>
-            <yCoord>60.494493</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Blommenholm - Høvik Stasjon, ved Blommenholm</heading>
-        <messagenumber>46984</messagenumber>
-        <version>1</version>
-        <ingress>Redusert framkommelighet på grunn av vedlikeholdsarbeid i periodene: Alle dager fra 07:00 til 17:00. Arbeidet ventes avsluttet 20.10.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>605</roadNumber>
-        <validFrom>2011-10-11 07:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.555568</xCoord>
-            <yCoord>59.893291</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Storengveien, krysset Løvenskiolds Vei (ved Stabekk - Jar Skole)</heading>
-        <messagenumber>40043</messagenumber>
-        <version>3</version>
-        <ingress>Redusert framkommelighet på grunn av vedlikeholdsarbeid i periodene: Alle dager fra 07:00 til 20:00. Arbeidet ventes avsluttet 30.11.2011.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>611</roadNumber>
-        <validFrom>2011-05-26 15:40:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.623367</xCoord>
-            <yCoord>59.919466</yCoord>
-          </startPoint>
-        </coordinates>
-      </message>
-      <message>
-        <heading>Nadderudveien, mellom Vollsveien og Rideveien (i Bærum kommune)</heading>
-        <messagenumber>47092</messagenumber>
-        <version>1</version>
-        <ingress>Innsnevring i periodene: Alle dager fra 07:00 til 19:00.</ingress>
-        <messageType>Redusert framkommelighet</messageType>
-        <urgency>N</urgency>
-        <roadType>Fv</roadType>
-        <roadNumber>614</roadNumber>
-        <validFrom>2011-10-17 07:00:00.0 CEST</validFrom>
-        <actualCounties>
-          <string>Akershus</string>
-        </actualCounties>
-        <coordinates>
-          <crs>EPSG:4326</crs>
-          <startPoint>
-            <xCoord>10.626871</xCoord>
-            <yCoord>59.942764</yCoord>
-          </startPoint>
-          <endPoint>
-            <xCoord>10.618639</xCoord>
-            <yCoord>59.941976</yCoord>
-          </endPoint>
-        </coordinates>
-      </message>
-    </messages>
-  </result>
-</result-array>
-	    
-    </searchresult>
+</searchresult>

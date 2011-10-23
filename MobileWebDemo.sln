@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileWebDemo", "MobileWebDemo\MobileWebDemo.csproj", "{7BC39018-0CE2-4152-A00E-5D947385692E}"
 EndProject
 Global

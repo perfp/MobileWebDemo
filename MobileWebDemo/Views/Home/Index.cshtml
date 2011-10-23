@@ -1,26 +1,59 @@
-﻿
-<script language="javascript">
+﻿<script type="text/javascript" src="@Url.Content("~/Scripts/jquery.tmpl.js")"></script>
+<script type="text/javascript" src="@Url.Content("~/Scripts/knockout-1.3.0beta.js")"></script>
 
-    $(document).bind('ready', function () {
-        $(click).click(getdata);
 
-        function getdata() {
-            $.ajax({
-                type: 'GET',
-                url:'/Content/search.xml',
-                dataType: 'text',
-                success: function (data) {
-                  $('#result').val(data);
-                }
-            });
-        }
-    });
+
+<button id="click">Get data</button>
+
+<ul data-bind="template: 'reservationTemplate'"></ul>
+
+
+<script type="text/x-jquery-tmpl" id="reservationTemplate">
+    {{each messages}}
+   
+        <li><div>${heading}
+                <div>${ingress}</div>
+                <div>${type}</div>
+
+            </div>
+        </li>    
+   
+    {{/each}}
 </script>
-<button id="click" value="Get data"></button>
 
-<ul data-role="listview" data-inset="true">
-    <li data-role="list-divider">Navigation</li>
-    <li>@Html.ActionLink("About", "About", "Home")</li>
-    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
-</ul>
-<textarea id="result"></textarea>
+
+<script type='text/javascript'>
+    (function () { // Wrap in function to prevent accidental globals
+        // Overall viewmodel for this screen, along with initial state
+        var viewModel = {
+            messages: ko.observableArray([{ heading: "test" }])
+        };
+
+        ko.applyBindings(viewModel);
+
+
+        $(document).bind('ready', function () {
+            $(click).click(getdata);
+
+            function getdata() {
+                viewModel.messages.length = 0;
+                $.ajax({
+                    type: 'GET',
+                    url: '/Content/search.xml',
+                    dataType: 'text',
+                    success: function (data) {
+
+                        $(data).find('message').each(function (index, element) {
+                            var message = {
+                                "heading": $("heading", this).text(),
+                                "type": $("messageType", this).text(),
+                                "ingress": $("ingress", this).text()
+                            }
+                            viewModel.messages.push(message);
+                        });
+                    }
+                });
+            }
+        });
+    })();
+</script>
