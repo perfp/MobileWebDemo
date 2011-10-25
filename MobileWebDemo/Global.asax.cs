@@ -28,6 +28,12 @@ namespace MobileWebDemo
                 new { controller = "Home", action = "Index", id = UrlParameter.Optional } // Parameter defaults
             );
 
+            routes.MapRoute(
+                "Data", // Route name
+                "{controller}/GetData/{filter}/{value}", // URL with parameters
+                new { controller = "Home", action = "GetData", filter="", value="" } // Parameter defaults
+            );
+
         }
 
         protected void Application_Start()

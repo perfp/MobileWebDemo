@@ -1,21 +1,19 @@
 ﻿<script type="text/javascript" src="@Url.Content("~/Scripts/jquery.tmpl.js")"></script>
 <script type="text/javascript" src="@Url.Content("~/Scripts/knockout-1.3.0beta.js")"></script>
 
+<button>Vær- og føreforhold</button>
+<button>Redusert framkommelighet</button>
+<button>Midlertidig stengt</button>
 
-
-<button id="click">Get data</button>
-
-<ul data-bind="template: 'reservationTemplate'"></ul>
-
+<ul data-bind="template: 'reservationTemplate'" data-role="listview" class="ui-listview"></ul>
 
 <script type="text/x-jquery-tmpl" id="reservationTemplate">
     {{each messages}}
    
-        <li><div>${heading}
-                <div>${ingress}</div>
-                <div>${type}</div>
-
-            </div>
+        <li data-theme="c" class="ui-btn ui-btn-icon-right ui-li-has-arrow ui-li ui-btn-up-c">
+                <h3>${heading}</h3>
+                <p>${ingress}</p>
+                <em>${type}</em>            
         </li>    
    
     {{/each}}
@@ -23,26 +21,25 @@
 
 
 <script type='text/javascript'>
-    (function () { // Wrap in function to prevent accidental globals
-        // Overall viewmodel for this screen, along with initial state
+     
         var viewModel = {
-            messages: ko.observableArray([{ heading: "test" }])
+            messages: ko.observableArray([])
         };
 
         ko.applyBindings(viewModel);
 
 
         $(document).bind('ready', function () {
-            $(click).click(getdata);
+            $('button').click(getdata);
 
             function getdata() {
-                viewModel.messages.length = 0;
+                viewModel.messages.removeAll()
                 $.ajax({
                     type: 'GET',
-                    url: '/Content/search.xml',
+                    url: '/Home/GetData/type/' + this.innerText,
                     dataType: 'text',
                     success: function (data) {
-
+                        
                         $(data).find('message').each(function (index, element) {
                             var message = {
                                 "heading": $("heading", this).text(),
@@ -55,5 +52,4 @@
                 });
             }
         });
-    })();
 </script>

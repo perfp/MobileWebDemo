@@ -3,6 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Xml;
+using System.Xml.Linq;
+using MobileWebDemo.Infrastructure;
+using MobileWebDemo.Models;
+using MobileWebDemo.Tools;
+
 
 namespace MobileWebDemo.Controllers
 {
@@ -10,23 +16,28 @@ namespace MobileWebDemo.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to kick-start your ASP.NET MVC application.";
+          
 
             return View();
         }
 
-        public ActionResult About()
+        [HttpGet]
+        public ActionResult GetData(string filter, string value)
         {
-            ViewBag.Message = "Your quintessential app description page.";
+            var path = ".\\Content\\search.xml";
+            if (Url != null) path = Server.MapPath("~/Content/search.xml"); 
 
-            return View();
-        }
+            var doc = XDocument.Load(path);
+            var messageRepository = new MessageRepository(doc);
 
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your quintessential contact page.";
+            var message = new Message();            
+            if (filter == "type") message.MessageType = value;
+            if (filter == "county") message.County = value;
 
-            return View();
+            var filteredList = messageRepository.GetFilteredList(message);
+            
+            doc.Element("searchresult").Element("result-array").Element("result").Element("messages").ReplaceAll(filteredList);           
+            return new XmlResult(doc);
         }
     }
 }
