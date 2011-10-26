@@ -17,8 +17,7 @@ namespace MWTest.UnitTests
         [TestMethod]       
         public void CanFilterXmlBasedOnCounty()
         {
-            var xdoc = XDocument.Load("Content\\search.xml");
-            var messages = new MessageRepository(xdoc);
+            var messages = CreateRepository();
 
             var messagePrototype = new Message();
             messagePrototype.County = "Akershus";
@@ -27,11 +26,12 @@ namespace MWTest.UnitTests
             Assert.AreEqual(26, filteredList.Count());
         }
 
+   
+
         [TestMethod]
         public void CanFilterXmlBasedOnMessageType()
         {
-            var xdoc = XDocument.Load("Content\\search.xml");
-            var messages = new MessageRepository(xdoc);
+            var messages = CreateRepository();
 
             var messagePrototype = new Message();
             messagePrototype.MessageType = Message.MessageTypes.MidlertidigStengt;
@@ -40,5 +40,20 @@ namespace MWTest.UnitTests
             Assert.AreEqual(9, filteredList.Count());
         }
 
+        [TestMethod]
+        public void CanFilterAllUnnecessaryElements(){
+            var messages = CreateRepository();
+
+            var filteredList = messages.GetFilteredList(new Message());
+
+            Assert.IsNull(filteredList.First().Element("version"));
+        }
+
+        private static MessageRepository CreateRepository()
+        {
+            var xdoc = XDocument.Load("Content\\search.xml");
+            var messages = new MessageRepository(xdoc);
+            return messages;
+        }
     }
 }

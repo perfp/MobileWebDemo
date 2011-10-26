@@ -31,8 +31,23 @@ namespace MobileWebDemo.Infrastructure
             var county = messagePrototype.County;
             FilterByCounty(county);
             FilterByType( messagePrototype.MessageType);
-
+            FilterUnneededChildren();
             return filteredList;
+        }
+
+        private void FilterUnneededChildren()
+        {
+            string[] neededElements = new string[] { "heading", "ingress", "messageType" };
+
+            foreach (var message in filteredList)
+            {
+                var children = from element in message.Elements()
+                               where neededElements.Contains(element.Name.LocalName)
+                               select element;
+
+                var list = children.ToList();
+                message.ReplaceNodes(list);
+            }
         }
 
         private void FilterByType(string messageType)
