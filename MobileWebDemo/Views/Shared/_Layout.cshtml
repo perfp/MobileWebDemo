@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width" />
 	    <link rel="stylesheet" href="@Url.Content("~/Content/jquery.mobile-1.0b2.min.css")" />
         <link rel="stylesheet" href="@Url.Content("~/Content/Site.css")" />
-	    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery-1.6.2.min.js")"></script>
+	    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery-1.6.2.min.js")"></!script>
         <script type="text/javascript">
             $(document).bind("mobileinit", function() {
                 // As of Beta 2, jQuery Mobile's Ajax navigation does not work in all cases (e.g.,
@@ -18,21 +18,8 @@
         <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.mobile-1.0b2.min.js")"></script>
     </head> 
 <body> 
-    <div data-role="page" data-theme="b">
-	    <div data-role="header">
-            @if (IsSectionDefined("Header")) {
-                @RenderSection("Header")
-            } else {
-		        <h1>@ViewBag.Title</h1>
-                @Html.Partial("_LogOnPartial")
-            }
-	    </div>
 
-	    <div data-role="content">	
-		    @RenderBody()
-	    </div>
-
-    </div>
-
+    @RenderBody()
+	  
 </body>
 </html>
