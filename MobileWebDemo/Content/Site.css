@@ -1,4 +1,12 @@
-﻿/* Styles for validation helpers
+﻿@media all and (max-width: 768px)
+{
+    #desktoptitle
+    {
+        display: none;
+    }
+}
+
+/* Styles for validation helpers
 -----------------------------------------------------------*/
 .field-validation-error {
     color: #ff0000;
@@ -40,4 +48,10 @@
 .ui-bar-e, .ui-body-e, .ui-btn-up-e, .ui-btn-hover-e, .ui-btn-down-e,
 .ui-btn-active  {
 	text-shadow: none;
+}
+
+right
+{
+    margin-left: auto;
+    margin-right: 0px;
 }
