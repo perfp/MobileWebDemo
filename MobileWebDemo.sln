@@ -10,8 +10,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWTest", "MWTest\MWTest.csproj", "{D771B685-3790-4F8D-9E1A-043F05811E4F}"
-EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = MobileWebDemo.vsmdi
@@ -25,10 +23,6 @@ Global
 		{7BC39018-0CE2-4152-A00E-5D947385692E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BC39018-0CE2-4152-A00E-5D947385692E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BC39018-0CE2-4152-A00E-5D947385692E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D771B685-3790-4F8D-9E1A-043F05811E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D771B685-3790-4F8D-9E1A-043F05811E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D771B685-3790-4F8D-9E1A-043F05811E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D771B685-3790-4F8D-9E1A-043F05811E4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
